@@ -2,9 +2,6 @@ require "json"
 require 'csv'
 require "open-uri"
 
-
-
-
 column_header = ['subpremise',
         'street_number',
         'route',
