@@ -16,15 +16,9 @@ column_header = ['subpremise',
 NEW_FILE = "geocoded.csv"
 
 
-def create_file(column_header)
-  CSV.open(NEW_FILE, "w") do |hdr|
-    hdr << column_header
-  end
-end
-
-def write_file(str)
-  CSV.open(NEW_FILE,"a+") do |row|
-    row << str
+def do_file(arr, action)
+  CSV.open(NEW_FILE, action) do |row|
+    row << arr
   end
 end
 
@@ -38,43 +32,43 @@ def match?(arr, column_header)
 
 end
 
-geocoded = create_file(column_header)
+geocoded = do_file(column_header, "w")
 api = 'AIzaSyB3MmwC2nqCpQ1QGy5vgs-b8cHKt7n3brw'
-
-str = []
 
 CSV.foreach("geocoder.csv", {:headers => true, :header_converters => :symbol}) do |row|
   #change this to add "+" in spaces
+  orig_address = ""
+  new_address = []
+  response_address = []
   addr = []
   addr << "+" + row[:address].split(" ").join("+")
   addr << row[:city].split(" ").join("+")
   addr << row[:state]
   addr << row[:zip]
-  str << addr.join(",+")
-end
+  orig_address = addr.join(",+")
+  q = "https://maps.googleapis.com/maps/api/geocode/json?address=#{orig_address}&key#{api}"
 
-#string for original address
-#str.to_s.gsub!("+", " ")
-
-response = []
-addresses = []
-str.each{ |address|
-  q = "https://maps.googleapis.com/maps/api/geocode/json?address=#{address}&key#{api}"
-  #if address is not empty
   JSON.parse(open(q).read)["results"].to_a.each{ |response|
     hash = {}
     response["address_components"].each{ |r|
-
       type = match?(r["types"].to_a, column_header)
       hash[type] = r["long_name"]
     } #long_name for addresses
     hash["lat"] = response["geometry"]["location"]["lat"] #lat
     hash["lng"] = response["geometry"]["location"]["lng"] #long
     !response["partial_match"].nil? ? hash["partial_match"] = "true" : hash["partial_match"] = "false" #partial match
-    addresses << hash
+    response_address << hash
   }
-}
+  puts response_address
+  puts addr
 
+
+end
+
+#string for original address
+#str.to_s.gsub!("+", " ")
+
+=begin
 addresses.each{ |a|
   arr = []
   column_header.each{ |type|
@@ -84,5 +78,6 @@ addresses.each{ |a|
       arr << ""
     end
   }
-  write_file(arr)
+  do_file(arr, "a+")
 }
+=end
