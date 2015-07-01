@@ -1,1 +1,163 @@
-subpremise,street_number,route,locality,administrative_area_level_2,administrative_area_level_1,country,postal_code,lat,lng,partial_match
+orig_address,orig_city,orig_state,orig_country,subpremise,street_number,route,locality,administrative_area_level_2,administrative_area_level_1,country,postal_code,lat,lng,partial_match
+ 7906 Broadview Rd,Broadview Heights,OH,44147,"",7906,Broadview Road,Broadview Heights,Cuyahoga County,Ohio,United States,44147,41.3506885,-81.6851574,false
+ 611 Robbins,Niles,OH,44446,"",611,Robbins Avenue,Niles,Trumbull County,Ohio,United States,44446,41.182189,-80.7514039,true
+ 457 Robbins Ave,Niles,OH,44446,"",457,Robbins Avenue,Niles,Trumbull County,Ohio,United States,44446,41.182268,-80.75381999999999,false
+ 126 W. Park Avenue,Niles,OH,44446,"",126,West Park Avenue,Niles,Trumbull County,Ohio,United States,44446,41.1805974,-80.7675319,false
+ 415 Robbins Ave,Niles,OH,44446,"",415,Robbins Avenue,Niles,Trumbull County,Ohio,United States,44446,41.182289,-80.755329,false
+ 14200 Snow Rd,Brook Park,OH,44142,"",14200,Snow Road,Brook Park,Cuyahoga County,Ohio,United States,44142,41.4056102,-81.7928752,false
+ 1329 Lake Avenue,Ashtabula,OH,44004,"",1329,Lake Avenue,Ashtabula,Ashtabula County,Ohio,United States,44004,41.887015,-80.804788,false
+ 4524 Elm Avenue,Ashtabula,OH,44004,"",4524,Elm Avenue,Ashtabula,Ashtabula County,Ohio,United States,44004,41.8663343,-80.78540699999999,false
+ 500 West Prospect Road,Ashtabula,OH,44004,"",500,West Prospect Road,Ashtabula,Ashtabula County,Ohio,United States,44004,41.8689224,-80.78519969999999,false
+ 86 Adelbert,Berea,OH,44017,"",86,Adelbert Street,Berea,Cuyahoga County,Ohio,United States,44017,41.3749021,-81.8563217,true
+ 206 Front St,Berea,OH,44017,"",206,Front Street,Berea,Cuyahoga County,Ohio,United States,44017,41.3709497,-81.8526799,false
+ 5712 N. Main Street,Sylvania,OH,43560,"",5712,Main Street,Sylvania,Lucas County,Ohio,United States,43560,41.717655,-83.702303,true
+ 9819 Darrow,Twinsburg,OH,44087,"",9819,Darrow Road,Twinsburg,Summit County,Ohio,United States,44087,41.332715,-81.4410382,true
+ 8592 Darrow Road,Twinsburg,OH,44087,"",8592,Darrow Road,Twinsburg,Summit County,Ohio,United States,44087,41.30134100000001,-81.44746099999999,false
+ 411 N. 7th Street,Steubenville,OH,43952,"",411,North 7th Street,Steubenville,Jefferson County,Ohio,United States,43952,40.3661944,-80.61722520000001,false
+ 611 North 4th Street,Steubenville,OH,43952,"",611,North 4th Street,Steubenville,Jefferson County,Ohio,United States,43952,40.3671845,-80.6116973,false
+ 321 S. 4th Street,Steubenville,OH,43952,"",321,South 4th Street,Steubenville,Jefferson County,Ohio,United States,43952,40.35630219999999,-80.61705979999999,false
+ 4434 Sunset Blvd,Steubenville,OH,43952,"",4434,Sunset Boulevard,Steubenville,Jefferson County,Ohio,United States,43952,40.37212520000001,-80.68327149999999,false
+ 36000 Lake Shore Blvd,Eastlake,OH,44094,"",36000,Lakeshore Boulevard,Eastlake,Lake County,Ohio,United States,44095,41.675508,-81.424747,true
+ 35400 Curtis Blvd,Eastlake,OH,44095,"",35400,Curtis Boulevard,Eastlake,Lake County,Ohio,United States,44095,41.637867,-81.435841,false
+ 550 Hill Road North,Pickerington,OH,43147,"",550,Hill Road North,Pickerington,Fairfield County,Ohio,United States,43147,39.8991777,-82.7659218,false
+ 135 N Washington St,Tiffin,OH,44883,"",135,North Washington Street,Tiffin,Seneca County,Ohio,United States,44883,41.1215749,-83.1778932,false
+ 236 S. Washington Street,Tiffin,OH,44883,"",236,South Washington Street,Tiffin,Seneca County,Ohio,United States,44883,41.1109827,-83.1763325,false
+ 214 South Monroe Street,Tiffin,OH,44883,"",214,South Monroe Street,Tiffin,Seneca County,Ohio,United States,44883,41.110553,-83.1779341,false
+ 339 Southwest Avenue,Tallmadge,OH,44278,"",339,Southwest Avenue,Tallmadge,Summit County,Ohio,United States,44278,41.094417,-81.451334,false
+ 17 Southwest Ave,Tallmadge,OH,44278,"",17,Southwest Avenue,Tallmadge,Summit County,Ohio,United States,44278,41.1001678,-81.44261759999999,false
+ 40 N. Main Street,Springboro,OH,45066,"",40,North Main Street,Springboro,Warren County,Ohio,United States,45066,39.5578441,-84.23233359999999,false
+ 116 2nd NE,New Philadelphia,OH,44663,"",116,2nd Street Northeast,New Philadelphia,Tuscarawas County,Ohio,United States,44663,40.489864,-81.44356979999999,true
+ 246 E High Avenue,New Philadelphia,OH,44663,"",246,East High Avenue,New Philadelphia,Tuscarawas County,Ohio,United States,44663,40.4886556,-81.4417108,false
+ 98 West Main Street,Norwalk,OH,44857,"",98,West Main Street,Norwalk,Huron County,Ohio,United States,44857,41.2399093,-82.6215808,false
+ 314 E. Main St.,Norwalk,OH,44857,"",314,East Main Street,Norwalk,Huron County,Ohio,United States,44857,41.2533917,-82.5906834,false
+ 212 N. Main Street,Mount Vernon,OH,43050,"",212,North Main Street,Mount Vernon,Knox County,Ohio,United States,43050,40.396531,-82.484807,false
+ 201 Newark Road,Mount Vernon,OH,43050,"",201,Newark Road,Mount Vernon,Knox County,Ohio,United States,43050,40.3830112,-82.4849351,false
+ 619 E. High Street,Mount Vernon,OH,43050,"",619,East High Street,Mount Vernon,Knox County,Ohio,United States,43050,40.393344,-82.474124,false
+ 416 S. Arch Street,Fremont,OH,43420,"",416,South Arch Street,Fremont,Sandusky County,Ohio,United States,43420,41.3426259,-83.1151775,false
+ 900 North Street,Fremont,OH,43420,"",900,North Street,Fremont,Sandusky County,Ohio,United States,43420,41.361949,-83.1179779,false
+ 425 E State,Fremont,OH,43420,"",425,East State Street,Fremont,Sandusky County,Ohio,United States,43420,41.344662,-83.105909,true
+ 529 Jefferson Avenue,Defiance,OH,43512,"",529,Jefferson Avenue,Defiance,Defiance County,Ohio,United States,43512,41.28296,-84.3609984,false
+ 1753 S. Clinton Street,Defiance,OH,43512,"",1753,South Clinton Street,Defiance,Defiance County,Ohio,United States,43512,41.25847599999999,-84.3924206,false
+ 9781 Page Road,Streetsboro,OH,44241,"",9781,Page Road,Streetsboro,Portage County,Ohio,United States,44241,41.2570381,-81.3276434,false
+ 139 S. Dixie Drive,Vandalia,OH,45377,"",139,South Dixie Drive,Vandalia,Montgomery County,Ohio,United States,45377,39.8890159,-84.19927559999999,false
+ 289 S. Main,Pataskala,OH,43062,"",289,South Main Street,Pataskala,Licking County,Ohio,United States,43062,39.9972143,-82.6750418,true
+ 501 Conant Street,Maumee,OH,43537,"",501,Conant Street,Maumee,Lucas County,Ohio,United States,43537,41.5639226,-83.65476369999999,false
+ 554 Washington,Washington Court,OH,43160,"",554,Washington Avenue,Washington Court House,Fayette County,Ohio,United States,43160,39.5392042,-83.43340049999999,true
+ 415 E Court Street,Washington C.H.,OH,43160,"",415,East Court Street,Washington Court House,Fayette County,Ohio,United States,43160,39.538194,-83.43595719999999,true
+ 223 W. Market Street,Washington Court,OH,43160,"",223,West Market Street,Washington Court House,Fayette County,Ohio,United States,43160,39.5351309,-83.4426518,true
+ 509 Washington,Washington Courthouse,OH,43160,"",509,Washington Avenue,Washington Court House,Fayette County,Ohio,United States,43160,39.538633,-83.434753,true
+ 314 Fourth Street,Marietta,OH,45750,"",314,4th Street,Marietta,Washington County,Ohio,United States,45750,39.4180465,-81.45251739999999,false
+ 500 Fifth St,Marietta,OH,45750,"",500,5th Street,Marietta,Washington County,Ohio,United States,45750,39.422083,-81.4546206,false
+ 1021 Pike Street,Marietta,OH,45750,"",1021,Pike Street,Marietta,Washington County,Ohio,United States,45750,39.4006446,-81.40845589999999,false
+ 408 Front Street,Marietta,OH,45750,"",408,Front Street,Marietta,Washington County,Ohio,United States,45750,39.4172404,-81.4582844,false
+ 8150 Brecksville,Brecksville,OH,44141,"",8150,Brecksville Road,Brecksville,Cuyahoga County,Ohio,United States,44141,41.3403435,-81.6292831,true
+ 675 W. Wenger Rd.,Englewood,OH,45322,"",675,West Wenger Road,Englewood,Montgomery County,Ohio,United States,45322,39.86243530000001,-84.3093423,false
+ 400 Union Blvd,Englewood,OH,45322,"",400,Union Boulevard,Englewood,Montgomery County,Ohio,United States,45322,39.8717378,-84.3109644,false
+ 301 W. Tiffin Street,Fostoria,OH,44830,"",301,West Tiffin Street,Fostoria,Seneca County,Ohio,United States,44830,41.156757,-83.41895799999999,false
+ 242 West Tiffin Street,Fostoria,OH,44830,"",242,West Tiffin Street,Fostoria,Seneca County,Ohio,United States,44830,41.1567968,-83.4179632,false
+ 407 N. Countyline Street,Fostoria,OH,44830,"",407,North County Line Street,Fostoria,Hancock County,Ohio,United States,44830,41.16108879999999,-83.4214607,true
+ 321 N. Main Street,Bellefontaine,OH,43311,"",321,North Main Street,Bellefontaine,Logan County,Ohio,United States,43311,40.3647829,-83.75980570000002,false
+ 151 E. Main Street,Circleville,OH,43113,"",151,East Main Street,Circleville,Pickaway County,Ohio,United States,43113,39.6010691,-82.9433648,false
+ 1455 N Court,Circleville,OH,43113,"",1455,North Court Street,Circleville,Pickaway County,Ohio,United States,43113,39.6274247,-82.94396239999999,true
+ 1000 N Broadway,Greenville,OH,45331,"",1000,North Broadway Street,Greenville,Darke County,Ohio,United States,45331,40.1148972,-84.6381037,true
+ 1499 North Broadway,Greenville,OH,45331,"",1499,North Broadway Street,Greenville,Darke County,Ohio,United States,45331,40.120963,-84.63611739999999,true
+ 129 N. Lisbon St,Carrollton,OH,44615,"",129,North Lisbon Street,Carrollton,Carroll County,Ohio,United States,44615,40.573599,-81.0858779,false
+ 304 2nd Street Northwest,Carrollton,OH,44615,"",304,2nd Street Northwest,Carrollton,Carroll County,Ohio,United States,44615,40.5759603,-81.0893298,false
+ 521 Broadway Avenue,Bedford,OH,44146,"",521,Broadway Avenue,Bedford,Cuyahoga County,Ohio,United States,44146,41.3956933,-81.53990619999999,false
+ 923 Broadway Avenue,Bedford,OH,44146,"",923,Broadway Avenue,Bedford,Cuyahoga County,Ohio,United States,44146,41.3867112,-81.5291761,false
+ 2300 Rockside Road,Bedford Heights,OH,44146,"","",Rockside Road,Bedford Heights,Cuyahoga County,Ohio,United States,44146,41.4095368,-81.5083708,true
+ 345 Main Street,Conneaut,OH,44030,"",345,Main Street,Conneaut,Ashtabula County,Ohio,United States,44030,41.9418893,-80.5591238,false
+ 581 Harbor Street,Conneaut,OH,44030,"",581,Harbor Street,Conneaut,Ashtabula County,Ohio,United States,44030,41.95395,-80.55341899999999,false
+ 208 Liberty Street,Conneaut,OH,44030,"",208,Liberty Street,Conneaut,Ashtabula County,Ohio,United States,44030,41.942744,-80.5538739,false
+ 5600 North Wooster Avenue,Dover,OH,44622,"",5600,North Wooster Avenue,Dover,Tuscarawas County,Ohio,United States,44622,40.5628093,-81.4986258,false
+ 803 North Wooster Avenue,Dover,OH,44622,"",803,North Wooster Avenue,Dover,Tuscarawas County,Ohio,United States,44622,40.5276375,-81.4802315,false
+ 29801 Lakeland Blvd,Wickliffe,OH,44092,"",29801,Lakeland Boulevard,Wickliffe,Lake County,Ohio,United States,44092,41.616949,-81.473119,false
+ 29550 Euclid Avenue,Wickliffe,OH,44092,"",29550,Euclid Avenue,Wickliffe,Lake County,Ohio,United States,44092,41.6090363,-81.46998990000002,false
+ 97 W. Locust,Wilmington,OH,45177,"",97,West Locust Street,Wilmington,Clinton County,Ohio,United States,45177,39.4468806,-83.8302095,true
+ 327 N. South Street,Wilmington,OH,45177,"",327,North South Street,Wilmington,Clinton County,Ohio,United States,45177,39.4498432,-83.82886189999999,false
+ 129 W. Warren St.,Bucyrus,OH,44820,"",129,West Warren Street,Bucyrus,Crawford County,Ohio,United States,44820,40.8062586,-82.9768418,false
+ 215 N. Walnut Street,Bucyrus,OH,44820,"",215,North Walnut Street,Bucyrus,Crawford County,Ohio,United States,44820,40.8102013,-82.9746703,false
+ 510 Jennings Avenue,Salem,OH,44460,"",510,Jennings Avenue,Salem,Columbiana County,Ohio,United States,44460,40.9052647,-80.86097219999999,false
+ 1014 E. State,Salem,OH,44460,"",1014,East State Street,Salem,Columbiana County,Ohio,United States,44460,40.901126,-80.84697469999999,true
+ 129 North Riverside Avenue,Loveland,OH,45140,"",129,Riverside Drive,Loveland,Hamilton County,Ohio,United States,45140,39.2700927,-84.2620384,true
+ 851 Park Avenue,Amherst,OH,44001,"",851,Park Avenue,Amherst,Lorain County,Ohio,United States,44001,41.3985331,-82.2166568,false
+ 1110 Cooper Foster Park Road,Amherst,OH,44001,"",1110,Cooper Foster Park Road,Amherst,Lorain County,Ohio,United States,44001,41.4176558,-82.21100349999999,false
+ 642 S. Main Street,Urbana,OH,43078,"",642,South Main Street,Urbana,Champaign County,Ohio,United States,43078,40.1008089,-83.7537706,false
+ 235 Miami Street,Urbana,OH,43078,"",235,Miami Street,Urbana,Champaign County,Ohio,United States,43078,40.1080258,-83.7554382,false
+ 1357 E. 2nd Street,Franklin,OH,45005,"",1357,East 2nd Street,Franklin,Warren County,Ohio,United States,45005,39.5638098,-84.2756625,false
+ 141 N. Meridian St.,Ravenna,OH,44266,"",141,North Meridian Street,Ravenna,Portage County,Ohio,United States,44266,41.159358,-81.2449038,false
+ 703 E. Main Street,Ravenna,OH,44266,"",703,East Main Street,Ravenna,Portage County,Ohio,United States,44266,41.1577188,-81.2331303,false
+ 450 West Olentangy Street,Powell,OH,43065,"",450,West Olentangy Street,Powell,Delaware County,Ohio,United States,43065,40.1589769,-83.0871165,false
+ 788 S. 2nd Street,Coshocton,OH,43812,"",788,South 2nd Street,Coshocton,Coshocton County,Ohio,United States,43812,40.263853,-81.86671199999999,false
+ 639 Main Street,Coshocton,OH,43812,"",639,Main Street,Coshocton,Coshocton County,Ohio,United States,43812,40.2730419,-81.86030799999999,false
+ 186 Park Ave,Coshocton,OH,43812,"",186,Park Avenue,Coshocton,Coshocton County,Ohio,United States,43812,40.272189,-81.855659,false
+ 215 W. 5th Street,East Liverpool,OH,43920,"",215,West 5th Street,East Liverpool,Columbiana County,Ohio,United States,43920,40.6203492,-80.5821586,false
+ 145 West Fifth Street,East Liverpool,OH,43920,"",145,West 5th Street,East Liverpool,Columbiana County,Ohio,United States,43920,40.6197184,-80.5811506,false
+ 2427 S. 11th Street,Ironton,OH,45638,"",2427,South 11th Street,Ironton,Lawrence County,Ohio,United States,45638,38.5197349,-82.66110309999999,false
+ 509 S. 6th,Ironton,OH,45638,"",509,South 6th Street,Ironton,Lawrence County,Ohio,United States,45638,38.53370340000001,-82.6794534,true
+ 1004 S 7th,Ironton,OH,45638,"",1004,South 7th Street,Ironton,Lawrence County,Ohio,United States,45638,38.5302385,-82.6754583,true
+ 518 S. 6th,Ironton,OH,45638,"",518,South 6th Street,Ironton,Lawrence County,Ohio,United States,45638,38.5333069,-82.6798718,true
+ 419 S. Washington Street,Van Wert,OH,45891,"",419,South Washington Street,Van Wert,Van Wert County,Ohio,United States,45891,40.8659718,-84.5833139,false
+ 616 S. Washington Street,Van Wert,OH,45891,"",616,South Washington Street,Van Wert,Van Wert County,Ohio,United States,45891,40.8647377,-84.58264460000001,false
+ 722 South Washington,Van Wert,OH,45891,"",722,South Washington Street,Van Wert,Van Wert County,Ohio,United States,45891,40.8620297,-84.5824133,true
+ 258 Poland,Struthers,OH,44471,"",258,Poland Avenue,Struthers,Mahoning County,Ohio,United States,44471,41.050228,-80.5906119,true
+ 700 Fifth Street,Struthers,OH,44471,"",700,5th Street,Struthers,Mahoning County,Ohio,United States,44471,41.052895,-80.603045,false
+ 11 Spring Street,Struthers,OH,44471,"",11,Spring Street,Struthers,Mahoning County,Ohio,United States,44471,41.053191,-80.5923474,false
+ 139 S. 9th Street,Cambridge,OH,43725,"",139,South 9th Street,Cambridge,Guernsey County,Ohio,United States,43725,40.023591,-81.58823,false
+ 120 N 11th St.,Cambridge,OH,43725,"",120,North 11th Street,Cambridge,Guernsey County,Ohio,United States,43725,40.0251868,-81.58443009999999,false
+ 5345 South Street,Vermilion,OH,44089,"",5345,South Street,Vermilion,Erie County,Ohio,United States,44089,41.4187851,-82.36095159999999,false
+ 110 West Main Street,Richmond,OH,43944,"",110,West Main Street,Richmond,Jefferson County,Ohio,United States,43944,40.4340329,-80.7738754,false
+ 303 Portland Way North,Galion,OH,44833,"",303,Portland Way North,Galion,Crawford County,Ohio,United States,44833,40.7368,-82.800951,false
+ 218 S. Market Street,Galion,OH,44833,"",218,South Market Street,Galion,Crawford County,Ohio,United States,44833,40.73203850000001,-82.7898348,false
+ 218 W. Market Street,Celina,OH,45822,"",218,West Market Street,Celina,Mercer County,Ohio,United States,45822,40.548692,-84.573281,false
+ 6921 State Route 703 East,Celina,OH,45822,"",6921,State Route 703,Celina,Mercer County,Ohio,United States,45822,40.546716,-84.535781,true
+ 901 Myers Road,Celina,OH,45822,"",901,Myers Road,Celina,Mercer County,Ohio,United States,45822,40.560626,-84.5583709,false
+ 1249 Hebron Road,Heath,OH,43056,"",1249,Hebron Road,Heath,Licking County,Ohio,United States,43056,40.0182679,-82.45111059999999,false
+ 222 South State Street,Girard,OH,44420,"",222,South State Street,Girard,Trumbull County,Ohio,United States,44420,41.1514851,-80.70045329999999,false
+ 672 Churchill Rd,Girard,OH,44420,"",672,Churchill Road,Girard,Trumbull County,Ohio,United States,44420,41.162457,-80.6863149,false
+ 124 E. High Street,London,OH,43140,"",124,East High Street,London,Madison County,Ohio,United States,43140,39.888129,-83.44510090000001,false
+ 103 N. Main St,London,OH,43140,"",103,North Main Street,London,Madison County,Ohio,United States,43140,39.887778,-83.450785,false
+ 215 Broadway,Harrison,OH,45030,"",215,East Broadway Street,Harrison,Hamilton County,Ohio,United States,45030,39.261247,-84.817379,true
+ 201 South Vine St,Harrison,OH,45030,"",201,South Vine Street,Harrison,Hamilton County,Ohio,United States,45030,39.2605514,-84.81598439999999,false
+ 10385 New Haven Road,Harrison,OH,45030,"",10385,New Haven Road,Harrison,Hamilton County,Ohio,United States,45030,39.26129,-84.78688199999999,false
+ 615 North Dixie Highway,Wapakoneta,OH,45895,"",615,Dixie Highway,Wapakoneta,Auglaize County,Ohio,United States,45895,40.5758352,-84.1814979,true
+" 1102 Lincoln Avenue, St Rt 501",Wapakoneta,OH,45895,"","","",Wapakoneta,Auglaize County,Ohio,United States,45895,40.5678265,-84.1935594,true
+ 13 S. Blackhoof,Wapakoneta,OH,45895,"",13,South Blackhoof Street,Wapakoneta,Auglaize County,Ohio,United States,45895,40.569795,-84.19649400000002,true
+ 11900 N. Dixie Drive,Tipp City,OH,45371,"",11900,North Dixie Drive,Tipp City,Montgomery County,Ohio,United States,45371,39.921543,-84.192117,false
+ 327 W. Main Street,Tipp City,OH,45371,"",327,West Main Street,Tipp City,Miami County,Ohio,United States,45371,39.961355,-84.17633699999999,false
+ 168 W. Main Street,Shelby,OH,44875,"",168,West Main Street,Shelby,Richland County,Ohio,United States,44875,40.880902,-82.67048969999999,false
+ 33 N. Gamble,Shelby,OH,44875,"",33,North Gamble Street,Shelby,Richland County,Ohio,United States,44875,40.8828751,-82.6614599,true
+ 610 Walnut Street,Oakwood,OH,45873,"",610,Walnut Street,Oakwood,Paulding County,Ohio,United States,45873,41.0924404,-84.3726911,false
+ 303 S. Chapel Street,Louisville,OH,44641,"",303,South Chapel Street,Louisville,Stark County,Ohio,United States,44641,40.836208,-81.260143,false
+ 917 E. Main St,Louisville,OH,44641,"",917,East Main Street,Louisville,Stark County,Ohio,United States,44641,40.838471,-81.253067,false
+ 830 N. Scott Street,Napoleon,OH,43545,"",830,Scott Street,Napoleon,Henry County,Ohio,United States,43545,41.3925445,-84.1271348,true
+ 333 W. Main,Napoleon,OH,43545,"",333,East Main Street,Napoleon,Henry County,Ohio,United States,43545,41.391225,-84.1199,true
+ 1010 Westmoreland Ave.,Napoleon,OH,43545,"",1010,Westmoreland Avenue,Napoleon,Henry County,Ohio,United States,43545,41.39372789999999,-84.1475695,false
+ 206 North Lynn Street,Bryan,OH,43506,"",206,North Lynn Street,Bryan,Williams County,Ohio,United States,43506,41.4764709,-84.552015,false
+ 225 East High Street,Bryan,OH,43506,"",225,East High Street,Bryan,Williams County,Ohio,United States,43506,41.474938,-84.548765,false
+ 860 West Mulberry St.,Bryan,OH,43506,"",860,West Mulberry Street,Bryan,Williams County,Ohio,United States,43506,41.47772579999999,-84.5636524,false
+ 226 W. Main St,Eaton,OH,45320,"",226,West Main Street,Eaton,Preble County,Ohio,United States,45320,39.7444464,-84.6396038,false
+ 220 E. Main Street,Eaton,OH,45320,"",220,East Main Street,Eaton,Preble County,Ohio,United States,45320,39.744344,-84.6336819,false
+ 415 North Elm Street,Orrville,OH,44667,"",415,North Elm Street,Orrville,Wayne County,Ohio,United States,44667,40.84440000000001,-81.774779,false
+ 512 E. Oak Street,Orrville,OH,44667,"",512,East Oak Street,Orrville,Wayne County,Ohio,United States,44667,40.8341441,-81.75874209999999,false
+ 1175 E. Greenville Road,Saint Marys,OH,45885,"",1175,East Greenville Road,Saint Marys,Auglaize County,Ohio,United States,45885,40.5414592,-84.36934079999999,false
+ 1605 Celina Road,Saint Marys,OH,45885,"",1605,Celina Road,Saint Marys,Auglaize County,Ohio,United States,45885,40.544016,-84.40881999999999,false
+ 314 West High Street,Saint Marys,OH,45885,"",314,West High Street,Saint Marys,Auglaize County,Ohio,United States,45885,40.54334000000001,-84.39168699999999,false
+ 228 S Main St,Oberlin,OH,44074,"",228,South Main Street,Oberlin,Lorain County,Ohio,United States,44074,41.286041,-82.218081,false
+ 123 N Main St,Kenton,OH,43326,"",123,North Main Street,Kenton,Hardin County,Ohio,United States,43326,40.648874,-83.6082447,false
+ 200 E. Columbus,Kenton,OH,43326,"",200,East Columbus Street,Kenton,Hardin County,Ohio,United States,43326,40.6478198,-83.6064742,true
+ 216 Coitsville Road,Campbell,OH,44405,"",216,Coitsville Road,Campbell,Mahoning County,Ohio,United States,44405,41.0840031,-80.605447,false
+ 1105 Castalia St. (Route 269 N),Bellevue,OH,44811,"","",Highway 269,"","",Ohio,United States,"",41.3625347,-82.82806049999999,true
+ 151 Yorkshire Place,Bellevue,OH,44811,"",151,Yorkshire Place,Bellevue,Sandusky County,Ohio,United States,44811,41.2790715,-82.8555901,false
+ 407 W. Liberty Street,Hubbard,OH,44425,"",407,West Liberty Street,Hubbard,Trumbull County,Ohio,United States,44425,41.1559821,-80.57663199999999,false
+ 709 N. Main Street,Hubbard,OH,44425,"",709,North Main Street,Hubbard,Trumbull County,Ohio,United States,44425,41.1640954,-80.56839699999999,false
+ 3701 Starr's Centre Drive,Canfield,OH,44406,"","","",Canfield,Mahoning County,Ohio,United States,44406,41.0250584,-80.7609121,true
+ 65 N Broad St,Canfield,OH,44406,"",65,North Broad Street,Canfield,Mahoning County,Ohio,United States,44406,41.0267761,-80.7598895,false
+ 39 S Miller,Fairlawn,OH,44333,"",39,South Miller Road,Fairlawn,Summit County,Ohio,United States,44333,41.1267193,-81.6093866,true
+ 85 N. Miller,Fairlawn,OH,44333,"",85,North Miller Road,Fairlawn,Summit County,Ohio,United States,44333,41.130204,-81.609184,true
+ 219 S. Fulton Street,Wauseon,OH,43567,"",219,South Fulton Street,Wauseon,Fulton County,Ohio,United States,43567,41.54575550000001,-84.14006549999999,false
+ 60 W. Hunter St,Logan,OH,43138,"",60,West Hunter Street,Logan,Hocking County,Ohio,United States,43138,39.5414749,-82.4099876,false
+ 183 East Second Street,Logan,OH,43138,"",183,East 2nd Street,Logan,Hocking County,Ohio,United States,43138,39.53857,-82.40603700000001,false
+ 204 W. Main Street,Logan,OH,43138,"",204,West Main Street,Logan,Hocking County,Ohio,United States,43138,39.5406059,-82.412279,false
+ 410 Main Street,Huron,OH,44839,"",410,Main Street,Huron,Erie County,Ohio,United States,44839,41.392085,-82.55654500000001,false
+ 2602 Bogart Road,Huron,OH,44839,"",2602,Bogart Road,Huron,Erie County,Ohio,United States,44839,41.3894612,-82.6103351,false
