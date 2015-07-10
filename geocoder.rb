@@ -27,7 +27,7 @@ end
 geocoded = do_file(original_header + column_header, "w") #create file
 api = 'AIzaSyB3MmwC2nqCpQ1QGy5vgs-b8cHKt7n3brw'
 
-CSV.foreach(CSV_FILE, {:headers => true, :header_converters => :symbol}) do |row|
+CSV.foreach(CSV_FILE, {:headers => true, :header_converters => :symbol, :encoding => 'ISO-8859-1'}) do |row|
   #change this to add "+" in spaces
   orig_address = ""
   response_address = []
@@ -50,14 +50,15 @@ CSV.foreach(CSV_FILE, {:headers => true, :header_converters => :symbol}) do |row
     !response["partial_match"].nil? ? hash["partial_match"] = "true" : hash["partial_match"] = "false" #partial match
     response_address << hash
   }
-  first_hash = response_address[0]
-  column_header.each{ |type|
-    if !first_hash[type].nil?
-      addr << first_hash[type]
-    else
-      addr << ""
-    end
-  }
+  if response_address[0]
+    first_hash = response_address[0]
+    column_header.each{ |type|
+      if !first_hash[type].nil?
+        addr << first_hash[type]
+      else
+        addr << ""
+      end
+    }
+  end
   do_file(addr.map{|e| e.to_s.gsub("+", " ") }, "a+")
-
 end
