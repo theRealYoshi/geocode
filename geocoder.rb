@@ -32,7 +32,9 @@ CSV.foreach(CSV_FILE, {:headers => true, :header_converters => :symbol, :encodin
   orig_address = ""
   response_address = []
   addr = []
-  addr << "+" + row[:address].split(" ").join("+")
+  if row[:address]
+    addr << "+" + row[:address].split(" ").join("+")
+  end
   addr << row[:city].split(" ").join("+")
   addr << row[:state]
   addr << row[:zip]

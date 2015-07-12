@@ -1,0 +1,851 @@
+orig_address,orig_city,orig_state,orig_country,subpremise,street_number,route,locality,administrative_area_level_2,administrative_area_level_1,country,postal_code,lat,lng,partial_match
+ 1701 N. Stockton Hill Rd.,Kingman, AZ,86401,"",1701,North Stockton Hill Road,Kingman,Mohave County,Arizona,United States,86401,35.2031377,-114.0336295,true
+ 5975 Lovers Lane,Portage,MI,49002,"",5975,Lovers Lane,Portage,Kalamazoo County,Michigan,United States,49002,42.2301653,-85.57455379999999,false
+ 120 S. Woodhams St,Plainwell,MI,49080,"",120,South Woodhams Street,Plainwell,Allegan County,Michigan,United States,49080,42.44210229999999,-85.63945989999999,false
+ 731 N. Columbia Center Blvd. Suite 126,Kennewick,WA,99336,126,731,North Columbia Center Boulevard,Kennewick,Benton County,Washington,United States,99336,46.2168143,-119.2260045,true
+ 312 Martin Luther King Jr Blvd,Raleigh,NC,27611,"",312,Martin Luther King Junior Boulevard,Raleigh,Wake County,North Carolina,United States,27601,35.769044,-78.6348639,true
+ 241 West Main Street,Lebanon,TN,37087,"",241,West Main Street,Lebanon,Wilson County,Tennessee,United States,37087,36.2087085,-86.2949926,false
+ 58 Bridge St,New Milford,CT,6776,"",58,Bridge Street,New Milford,Litchfield County,Connecticut,United States,06776,41.5769341,-73.4102784,true
+ 322 Highway 31 North,Athens,AL,35611,"",322,U.S. 31,Athens,Limestone County,Alabama,United States,35611,34.8093876,-86.94747439999999,true
+ 1501 Lonsdale Avenue,Lincoln,RI,2865,"",1501,Lonsdale Avenue,Lincoln,Providence County,Rhode Island,United States,02865,41.904243,-71.4039396,true
+ 206 Oak St,Miltona,MN,56354,"",206,Oak Street,Miltona,Douglas County,Minnesota,United States,56354,46.04408600000001,-95.29469019999999,false
+ 122 South McCornell Ave,Parkers Prairie,MN,56361,"",122,South Mccornell Avenue,Parkers Prairie,Otter Tail County,Minnesota,United States,56361,46.1533036,-95.3305846,false
+ 503-A N. 5th Ave,Sequim,WA,98382,"",503,North 5th Avenue,Sequim,Clallam County,Washington,United States,98382,48.08337950000001,-123.1131205,true
+ 718 Lebo Blvd,Bremerton,WA,98310,"",718,Lebo Boulevard,Bremerton,Kitsap County,Washington,United States,98310,47.581671,-122.6287101,false
+ One Mayberry Lane,Yarmouth,ME,4096,"",1,Mayberry Lane,Yarmouth,Cumberland County,Maine,United States,04096,43.7967636,-70.1852112,true
+ 226 N. 4th Street,Paducah,KY,42001,"",226,North 4th Street,Paducah,McCracken County,Kentucky,United States,42001,37.0885582,-88.59888180000002,false
+ 473 S. Main Street,Harrisonburg,VA,22801,"",473,South Main Street,Harrisonburg,"",Virginia,United States,22801,38.4443261,-78.86988079999999,false
+ 219 Main,Rural Retreat,VA,24368,"",219,South Main Street,Rural Retreat,Wythe County,Virginia,United States,24368,36.8928979,-81.2758777,true
+ 982 Keezletown Rd.,Weyers Cave,VA,24486,"",982,Keezletown Road,Weyers Cave,Augusta County,Virginia,United States,24486,38.281502,-78.919061,false
+ 323 Myrtle,Willard,OH,44890,"",323,Myrtle Avenue,Willard,Huron County,Ohio,United States,44890,41.0542571,-82.7255373,true
+ 703 Maryland Ave,Shenandoah,VA,22849,"",703,Maryland Avenue,Shenandoah,Page County,Virginia,United States,22849,38.4874603,-78.6175738,false
+ 505 Main Street,Harmony,MN,55939,"",505,Main Avenue North,Harmony,Fillmore County,Minnesota,United States,55939,43.5603887,-92.0099615,true
+ 716 South Main St.,Landis,NC,28088,"",716,South Main Street,Landis,Rowan County,North Carolina,United States,28088,35.5404049,-80.6171731,false
+ 1420 North Main St,China Grove,NC,28023,"",1420,North Main Street,China Grove,Rowan County,North Carolina,United States,28023,35.5784371,-80.5629261,false
+ 129 Kenoza Ave.,Haverhill,MA,1830,"",129,Kenoza Avenue,Haverhill,Essex County,Massachusetts,United States,01830,42.7836154,-71.0730224,true
+ 30 Commonwealth Avenue,Erlanger,KY,41018,"",30,Commonwealth Avenue,Erlanger,Kenton County,Kentucky,United States,41018,39.0178201,-84.60122129999999,false
+ 84632 Tallassee Highway,Eclectic,AL,36024,"",84632,Tallassee Highway,Eclectic,Elmore County,Alabama,United States,36024,32.5729698,-86.01424759999999,false
+ 552 Lewis Street,Havre De Grace,MD,21078,"",552,Lewis Street,Havre de Grace,Harford County,Maryland,United States,21078,39.5421819,-76.092631,false
+ 105 Bead Street,Alma,GA,31510,"",105,South Bead Street,Alma,Bacon County,Georgia,United States,31510,31.5402057,-82.4515955,true
+ 102 Virginia Street,Pearson,GA,31642,"",102,Virginia Street,Pearson,Atkinson County,Georgia,United States,31642,31.3008836,-82.864074,true
+ 1301 Main Street,Beech Grove, IN ,46107,"",1301,Main Street,Beech Grove,Marion County,Indiana,United States,46107,39.7212828,-86.0975354,false
+ 115 State,Commerce,GA,30529,"",115,State Street,Commerce,Jackson County,Georgia,United States,30529,34.204215,-83.455826,true
+ 1811 Ashland St,Ashland,OR,97520,"",1811,Ashland Street,Ashland,Jackson County,Oregon,United States,97520,42.1856581,-122.683393,false
+ 1225 N. Elm Avenue,"Hastings,",NE,68901,"",1225,North Elm Avenue,Hastings,Adams County,Nebraska,United States,68901,40.5975613,-98.374016,false
+ 208 Daugherty,Livingston,TN,38570,"",208,Daugherty Street,Livingston,Overton County,Tennessee,United States,38570,36.381002,-85.325124,true
+ 1830 N. Main,Kingman,KS,67068,"",1830,North Main Street,Kingman,Kingman County,Kansas,United States,67068,37.6594735,-98.1128423,true
+ 224 W. Spruce,"Missoula,",MT,59802,"",224,West Spruce Street,Missoula,Missoula County,Montana,United States,59802,46.8751729,-113.995047,true
+ 601 N. Webb Road,Grand Island,NE,68803,"",601,North Webb Road,Grand Island,Hall County,Nebraska,United States,68803,40.9239173,-98.37784889999999,false
+ 750 South Main St,Jellico,TN,37762,"",750,South Main Street,Jellico,Campbell County,Tennessee,United States,37762,36.58504,-84.133061,false
+ 412 W Hickory,Bastrop,LA,71220,"",412,West Hickory Avenue,Bastrop,Morehouse Parish,Louisiana,United States,71220,32.7755673,-91.9202165,true
+ 2018 31st Ave.,Gulfport,MS,39501,"",2018,31st Avenue,Gulfport,Harrison County,Mississippi,United States,39501,30.3751488,-89.09871869999999,false
+ 916 Union Chapel Road,Pembroke,NC,28372,"",916,Union Chapel Road,Pembroke,Robeson County,North Carolina,United States,28372,34.6882603,-79.1814856,false
+ 210 N. Custer,Weatherford,OK,73096,"",210,Custer Street,Weatherford,Custer County,Oklahoma,United States,73096,35.5272254,-98.7077369,true
+ 106 S. 10th,Thomas,OK,73669,"",106,South 10th Street,Thomas,Custer County,Oklahoma,United States,73669,35.7438242,-98.7501514,true
+ 608 East Joe Koelsch Drive,Locust Grove,OK,74352,"",608,Joe Koelsch Drive,Locust Grove,Mayes County,Oklahoma,United States,74352,36.2053123,-95.15850119999999,true
+ 102 Lakeview Avenue,Milford,DE,19963,"",102,Lakeview Avenue,Milford,Sussex County,Delaware,United States,19963,38.910505,-75.43234799999999,false
+ 147 Coleridge Road,Ramseur,NC,27316,"",147,Coleridge Road,Siler City,Randolph County,North Carolina,United States,27344,35.736918,-79.65559600000002,false
+ 212 W. Swannanoa Avenue,Liberty,NC,27298,"",212,West Swannanoa Avenue,Liberty,Randolph County,North Carolina,United States,27298,35.8534832,-79.5735634,false
+ 106 North East St.,Kinston,NC,28501,"",106,South East Street,Kinston,Lenoir County,North Carolina,United States,28501,35.2598261,-77.5759769,true
+ 357 Dalton Street,Ellijay,GA,30540,"",357,Dalton Street,Ellijay,Gilmer County,Georgia,United States,30540,34.6991351,-84.4819995,false
+ 312 Main Street,Parsons,WV,26287,"",312,Water Plant Road,Parsons,Tucker County,West Virginia,United States,26287,39.0987257,-79.6826044,false
+ 120 First Street,Elkins,WV,26241,"",120,1st Street,Elkins,Randolph County,West Virginia,United States,26241,38.9230559,-79.8494194,false
+ 3 Bridge Street,Monson,MA,1057,"",3,Bridge Street,Monson,Hampden County,Massachusetts,United States,01057,42.09413060000001,-72.3138116,true
+ 336 Cleveland Avenue,Harrison,NJ,7029,"",336,Cleveland Avenue,Harrison,Hudson County,New Jersey,United States,07029,40.7474,-74.157004,true
+ 206 W. 5th Street,Chapman,KS,67431,"",206,West 5th Street,Chapman,Dickinson County,Kansas,United States,67431,38.971637,-97.021705,false
+ 324 W. Church,Lewisburg,TN,37091,"",324,West Church Street,Lewisburg,Marshall County,Tennessee,United States,37091,35.45077430000001,-86.79098719999999,true
+ 879 S Main Street,London,KY,40741,"",879,South Main Street,London,Laurel County,Kentucky,United States,40741,37.1216981,-84.0782266,false
+ 107 Oak St,"Anaconda,",MT,59711,"",107,Oak Street,Anaconda,Deer Lodge County,Montana,United States,59711,46.12974759999999,-112.9512458,false
+ 200 West 53rd Street,Anderson, IN ,46013,"",200,West 53rd Street,Anderson,Madison County,Indiana,United States,46013,40.0622636,-85.6822239,false
+ 704 Indiana,Neodesha,KS,66757,"",704,Indiana Street,Neodesha,Wilson County,Kansas,United States,66757,37.418552,-95.6824039,true
+ 211 Jimmy Daniel Rd.,Bogart,GA,30622,"","",Jimmy Daniel Road,Bogart,"",Georgia,United States,30622,33.9254357,-83.486753,true
+ 963 Highway 98 East,Danielsville,GA,30633,"",963,Highway 98,Danielsville,Madison County,Georgia,United States,30633,34.1217229,-83.2038547,true
+ 2370 Highway 53,Watkinsville,GA,30677,"",2370,Highway 53,Watkinsville,Oconee County,Georgia,United States,30677,33.8675026,-83.4474187,false
+ 1064 Athens Rd.,Crawford,GA,30630,"",1064,Athens Road,Crawford,Oglethorpe County,Georgia,United States,30630,33.88547399999999,-83.148816,false
+ 23 Club Lane,Wolfeboro,NH,3894,"",23,Club Lane,Wolfeboro,Carroll County,New Hampshire,United States,03894,43.6182296,-71.17579169999999,true
+ 50 Moultonville Road,Ossipee,NH,3814,"",50,Moultonville Road,Ossipee,Carroll County,New Hampshire,United States,03814,43.7559148,-71.1598558,true
+ 110 N. Military Street,Loretto,TN,38469,"",110,North Military Street,Loretto,Lawrence County,Tennessee,United States,38469,35.0797531,-87.4344924,false
+ 305 East WashingtonAvenue,Vinton,VA,24179,"",305,Washington Avenue,Vinton,Roanoke County,Virginia,United States,24179,37.28002439999999,-79.8946577,true
+ 1001 Franklin Road SW,Roanoke,VA,24016,"",1001,Franklin Road Southwest,Roanoke,"",Virginia,United States,24016,37.264528,-79.9470259,false
+ 1330 E. Main Street,Salem,VA,24153,"",1330,East Main Street,Salem,"",Virginia,United States,24153,37.296579,-80.03359999999999,false
+ 158 Catoctin Circle SE,Leesburg,VA,20175,"",158,Catoctin Circle Southeast,Leesburg,Loudoun County,Virginia,United States,20175,39.108318,-77.55796,false
+ 13-01 Broadway,Fair Lawn,NJ,7410,"",13-01,Broadway,Fair Lawn,Bergen County,New Jersey,United States,07410,40.9205926,-74.1208911,true
+ 100 E. Church Street,Smithville,TN,37166,"",100,East Church Street,Smithville,DeKalb County,Tennessee,United States,37166,35.9623384,-85.81319169999999,false
+ 1402 N. Thornton Avenue,Dalton,GA,30721,"",1402,North Thornton Avenue,Dalton,Whitfield County,Georgia,United States,30720,34.7911019,-84.9826845,true
+ 1218 Adel Road,Nashville,GA,31639,"","",Old Nashville Road,Adel,Cook County,Georgia,United States,31620,31.1559407,-83.3829021,true
+ 350 North Maple Avenue,Covington,VA ,24426,"",350,North Maple Avenue,Covington,"",Virginia,United States,24426,37.7918795,-79.99780559999999,false
+ 3225 Academy Avenue,Portsmouth,VA,23703,"",3225,Academy Avenue,Portsmouth,"",Virginia,United States,23703,36.8630546,-76.3968527,false
+ 5236 Hwy 301 South,Glennville,GA,30427,"","",County Road 301,Glennville,Tattnall County,Georgia,United States,30427,31.9357592,-82.034646,true
+ 2205 South Church Street,Burlington,NC,27215,"",2205,South Church Street,Burlington,Alamance County,North Carolina,United States,27215,36.082397,-79.47057749999999,false
+ 4715 Margaret Wallace Road,Matthews,NC,28105,"",4715,Margaret Wallace Road,Matthews,Mecklenburg County,North Carolina,United States,28105,35.174978,-80.706102,false
+ 1100 E. Tamarack Road,Altus,OK,73521,"",1100,East Tamarack Road,Altus,Jackson County,Oklahoma,United States,73521,34.665476,-99.32100299999999,false
+ 170 8th St.,Helena,GA,31037,"","",8th Street,Helena,Telfair County,Georgia,United States,31037,32.0709458,-82.90893609999999,true
+ 1131 North Lehmberg Road,Columbus,MS,39702,"",1131,South Lehmberg Road,Columbus,Lowndes County,Mississippi,United States,39702,33.4796209,-88.3626597,true
+ 110 W Main Street,Wardensville,WV,26851,"",110,West Main Street,Wardensville,Hardy County,West Virginia,United States,26851,39.0757184,-78.5972754,false
+ Box 78,Loyall,KY,40854,"","","",Loyall,Harlan County,Kentucky,United States,40854,36.8521067,-83.353893,true
+ 476 South Sandusky Avenue,Upper Sandusky,OH,43351,"",476,South Sandusky Avenue,Upper Sandusky,Wyandot County,Ohio,United States,43351,40.82082949999999,-83.2820222,false
+ 91 Long Sands,York,ME,3909,"",91,Long Sands Road,York,York County,Maine,United States,03909,43.14696259999999,-70.6441655,true
+ 2931 US Hwy 23 South,Pikeville,KY,41501,"",2931,U.S. 23,Pikeville,Pike County,Kentucky,United States,41501,37.4176853,-82.5243823,true
+ 108 E Elk St,"Hooper,",NE,68031,"",108,East Elk Street,Hooper,Dodge County,Nebraska,United States,68031,41.6118313,-96.547664,false
+ 509 Main Street,"Scribner,",NE,68057,"",509,Main Street,Scribner,Dodge County,Nebraska,United States,68057,41.6668745,-96.6657084,false
+ 2400 Highway 13 North,Waverly,TN,37185,"",2400,Highway 13,Waverly,Humphreys County,Tennessee,United States,37185,36.1153879,-87.77993389999999,true
+ 115 N. Neal Street,Prairie Grove,AR,72753,"",115,North Neal Street,Prairie Grove,Washington County,Arkansas,United States,72753,35.9761583,-94.315004,false
+ 5839 Hwy 19 Blvd,Cannon Falls,MN,55009,"",5839,Highway 19 Boulevard,Cannon Falls,Goodhue County,Minnesota,United States,55009,44.5075642,-92.9221774,false
+ 209 Court St.,Cuthbert,GA,39840,"",209,Court Street,Cuthbert,Randolph County,Georgia,United States,39840,31.7726244,-84.78910189999999,false
+ 409 West Marion Street,Shelby,NC,28150,"",409,West Marion Street,Shelby,Cleveland County,North Carolina,United States,28150,35.291853,-81.54522899999999,false
+ 531 N. State,Alma,MI,48801,"",531,North State Street,Alma,Gratiot County,Michigan,United States,48801,43.3814125,-84.6622261,true
+ 816 E. Main,Carson City,MI,48811,"",816,East Main Street,Carson City,Montcalm County,Michigan,United States,48811,43.1768315,-84.8368595,true
+ 644 Hancock St.,Quincy,MA,2170,"",644,Hancock Street,Quincy,Norfolk County,Massachusetts,United States,02170,42.2684029,-71.0168382,true
+ 515 South Main Street,Salisbury,NC,28144,"",515,South Main Street,Salisbury,Rowan County,North Carolina,United States,28144,35.663323,-80.47451219999999,false
+ 630 S. 20th Street,Purcellville, VA,20132,"",630,South 20th Street,Purcellville,Loudoun County,Virginia,United States,20132,39.130042,-77.7126119,false
+ 263 Main St.,Woburn,MA,1801,"",263,Main Street,Woburn,Middlesex County,Massachusetts,United States,01801,42.476648,-71.15025589999999,true
+ 126 Floyd Avenue,Rocky Mount,VA,24151,"",126,Floyd Avenue,Rocky Mount,Franklin County,Virginia,United States,24151,36.9948268,-79.89082619999999,false
+ 340 Pontiac Trail,Walled Lake,MI,48390,"",340,North Pontiac Trail,Walled Lake,Oakland County,Michigan,United States,48390,42.533484,-83.48350099999999,true
+ 542 Liberty Park,Lapeer,MI,48446,"",576,Liberty Park,Lapeer,Lapeer County,Michigan,United States,48446,43.0532,-83.3147,true
+ 1368 N. Crooks Road,Clawson,MI,48017,"",1368,North Crooks Road,Clawson,Oakland County,Michigan,United States,48017,42.5456654,-83.16581280000001,false
+ 717 Tacoma Ave S,Tacoma, WA ,98402,"",717,Tacoma Avenue South,Tacoma,Pierce County,Washington,United States,98402,47.2562349,-122.44478,false
+ 503 East Main Street,Campbellsville,KY,42718,"",503,East Main Street,Campbellsville,Taylor County,Kentucky,United States,42718,37.3425652,-85.3410248,false
+ 46 High St.,Thomaston,CT,6787,"",46,High Street,Thomaston,Litchfield County,Connecticut,United States,06787,41.674879,-73.07395199999999,true
+ 28 Elm Street,Danvers,MA,1923,"",28,Elm Street,Danvers,Essex County,Massachusetts,United States,01923,42.5645529,-70.93621399999999,true
+ 423 West Main Street,Madison,IN,47250,"",423,West Main Street,Madison,Jefferson County,Indiana,United States,47250,38.7368343,-85.3844939,false
+ 117 Gilmore Street,Sandersville,GA,31082,"",117,Gilmore Street,Sandersville,Washington County,Georgia,United States,31082,32.9839613,-82.8099713,false
+ 165 Lang Street,Cleveland,TN,37312,"",165,Lang Street Southeast,Cleveland,Bradley County,Tennessee,United States,37311,35.1531406,-84.8645361,true
+ 502 Congress Parkway N,Athens,TN,37303,"",502,Congress Parkway North,Athens,McMinn County,Tennessee,United States,37303,35.473163,-84.601013,false
+ 2117 Madison Ave.,Newport News,VA,23607,"",2117,Madison Avenue,Newport News,"",Virginia,United States,23607,36.980023,-76.417187,false
+ 221 S. Main,Dunkirk, IN ,47336,"",221,South Main Street,Dunkirk,Jay County,Indiana,United States,47336,40.3740547,-85.210481,true
+ 15001 Patrick Henry Hwy,Amelia,VA ,23002,"",15001,Patrick Henry Highway,Amelia Court House,Amelia County,Virginia,United States,23002,37.3649007,-77.937241,false
+ 367 South Locust Street,Floyd,VA,24091,"",367,South Locust Street,Floyd,Floyd County,Virginia,United States,24091,36.90955,-80.318725,false
+ 1435 Teagues Store Road,Somerville,TN,38068,"",1435,Teague Store Road,Somerville,Fayette County,Tennessee,United States,38068,35.2224432,-89.41573319999999,true
+ 302 N. Hanselman,Bad Axe,MI,48413,"",302,North Hanselman Street,Bad Axe,Huron County,Michigan,United States,48413,43.8044164,-82.99755859999999,true
+ 270 Main Street,Watertown,MA,2472,"",270,Main Street,Watertown,Middlesex County,Massachusetts,United States,02472,42.36933399999999,-71.19040199999999,true
+ 315 N. Michigan Avenue,Howell,MI,48843,"",315,North Michigan Avenue,Howell,Livingston County,Michigan,United States,48843,42.6094374,-83.9277019,false
+ 600 S. Main Street,New Castle,IN,47362,"",600,South Main Street,New Castle,Henry County,Indiana,United States,47362,39.926456,-85.3699369,false
+ 325 Hardwick Street,Belvidere,NJ,7823,"",325,Hardwick Street,Belvidere,Warren County,New Jersey,United States,07823,40.8252577,-75.0753433,true
+ 472 Ashley Blvd,New Bedford,MA,2745,"",472,Ashley Boulevard,New Bedford,Bristol County,Massachusetts,United States,02745,41.6704433,-70.93136059999999,true
+ 210 N Bartow Street,Cartersville,GA,30120,"",210,North Bartow Street,Cartersville,Bartow County,Georgia,United States,30120,34.1680566,-84.8014841,false
+ 91 Vernon Street,Gardner,MA,1440,"",91,Vernon Street,Gardner,Worcester County,Massachusetts,United States,01440,42.5775976,-71.9950437,true
+ 22154 State Highway 59 N.,Robertsdale,AL,36567,"",22154,Highway 59,Robertsdale,Baldwin County,Alabama,United States,36567,30.5480399,-87.7078061,true
+ 1245 Paterson Plank Road,Secaucus,NJ,7094,"",1245,Paterson Plank Road,Secaucus,Hudson County,New Jersey,United States,07094,40.7889259,-74.0563742,true
+ 22 Conant,Danvers,MA,1923,"",22,Conant Street,Danvers,Essex County,Massachusetts,United States,01923,42.566553,-70.934443,true
+ 35 Duke Street,Granite Falls,NC,28630,"",35,Duke Street,Granite Falls,Caldwell County,North Carolina,United States,28630,35.7954881,-81.430398,false
+ 2001 W. Main,Yadkinville,NC,27055,"",2001,West Main Street,Yadkinville,Yadkin County,North Carolina,United States,27055,36.1349856,-80.69467809999999,true
+ 261 Iotla Street,Franklin,NC,28744,"",261,Iotla Street,Franklin,Macon County,North Carolina,United States,28734,35.185284,-83.382615,true
+ 3969 Mercer University Drive,Macon,GA,31204,"",3969,Mercer University Drive,Macon,Bibb County,Georgia,United States,31204,32.8246939,-83.70335419999999,false
+ 74 Belknap Street,Concord,MA,1742,"",74,Belknap Street,Concord,Middlesex County,Massachusetts,United States,01742,42.457519,-71.3580992,true
+ 135 N Evans,McMinnville,OR,97128,"",135,Southeast Evans Street,McMinnville,Yamhill County,Oregon,United States,97128,45.208035,-123.194785,true
+ 311 Shuman Street,Foreman,AR,71836,"",311,Schuman Street,Foreman,Little River County,Arkansas,United States,71836,33.7236335,-94.39694089999999,true
+ 371 North 3rd,Ashdown,AR,71822,"",371,North 3rd Street,Ashdown,Little River County,Arkansas,United States,71822,33.672192,-94.133984,true
+ 105 W. Main St,Front Royal, VA,22630,"",105,West Main Street,Front Royal,Warren County,Virginia,United States,22630,38.918889,-78.1945549,false
+ 338 East Nashville Street,Pembroke,KY,42266,"",338,East Nashville Street,Pembroke,Christian County,Kentucky,United States,42266,36.77725300000001,-87.3504292,false
+ 700 Country Club Lane,Hopkinsville,KY,42240,"",700,Country Club Lane,Hopkinsville,Christian County,Kentucky,United States,42240,36.8558281,-87.5174771,false
+ 109 Howe Avenue,Passaic,NJ,7055,"",109,Howe Avenue,Passaic,Passaic County,New Jersey,United States,07055,40.8607354,-74.131596,true
+ 582 Simpson Hwy 149,Magee,MS,39111,"",582,Simpson Highway 149,Magee,Simpson County,Mississippi,United States,39111,31.8783186,-89.743606,true
+ 432 E Main Street,Hazard,KY,41701,"",432,East Main Street,Hazard,Perry County,Kentucky,United States,41701,37.2466937,-83.1848517,false
+ 352 Roy Campbell Dr.,Hazard,KY,41701,"",352,Roy Campbell Drive,Hazard,Perry County,Kentucky,United States,41701,37.2723056,-83.2279664,false
+ 12 Mott Avenue,Norwalk,CT,6850,"",12,Mott Avenue,Norwalk,Fairfield County,Connecticut,United States,06850,41.1164012,-73.4172938,true
+ 6100 Old Greensboro Road,Tuscaloosa,AL,35405,"",6100,Old Greensboro Road,Tuscaloosa,Tuscaloosa County,Alabama,United States,35405,33.1526803,-87.54889849999999,false
+ 4905 Hwy 69 North,Northport,AL,35473,"",4905,Highway 69,Northport,Tuscaloosa County,Alabama,United States,35473,33.2547991,-87.57018529999999,true
+ 2024 Hwy 72 East Annex,Corinth,MS,38834,"","","",Corinth,Alcorn County,Mississippi,United States,"",34.9342548,-88.5222702,true
+ 1604 Magnolia Street,Alexandria,LA,71301,"",1604,Magnolia Street,Alexandria,Rapides Parish,Louisiana,United States,71301,31.3063174,-92.4551812,false
+ 817 Parkway Drive,Salyersville,KY,41465,"",817,Parkway Drive,Salyersville,Magoffin County,Kentucky,United States,41465,37.7458164,-83.05917170000001,true
+ 135 Union Street,Rockland,MA,2370,"",135,Union Street,Rockland,Plymouth County,Massachusetts,United States,02370,42.1260706,-70.9142305,true
+ 11 E. Kings Hwy,Mount Ephraim,NJ,8059,"",11,East Kings Highway,Mount Ephraim,Camden County,New Jersey,United States,08059,39.8816553,-75.0850766,true
+ 628 Main St,Bennington,VT,5201,"",628,Main Street,Bennington,Bennington County,Vermont,United States,05201,42.8781365,-73.1913469,true
+ 602 Plum Street,Red Wing,MN,55066,"",602,Plum Street,Red Wing,Goodhue County,Minnesota,United States,55066,44.563572,-92.52979859999999,false
+ 1022 Lyon Ave,Lake City,MN,55041,"",1022,West Lyon Avenue,Lake City,Wabasha County,Minnesota,United States,55041,44.4407321,-92.27806799999999,true
+ 1475 Jefferson Dr,Zumbrota,MN,55992,"",1475,Jefferson Drive,Zumbrota,Goodhue County,Minnesota,United States,55992,44.28495849999999,-92.6713473,false
+ 209 N W 1st Ave,Pine Island,MN,55963,"",209,1st Avenue Northwest,Pine Island,Goodhue County,Minnesota,United States,55963,44.2047896,-92.6472217,true
+ 45 High Street,Candia,NH,3034,"",45,High Street,Candia,Rockingham County,New Hampshire,United States,03034,43.0617141,-71.2885805,true
+ 204 E. Main Street,Creswell,NC,27928,"",204,East Main Street,Creswell,Washington County,North Carolina,United States,27928,35.8687684,-76.3929462,false
+ 306 Latham Avenue,Plymouth,NC,27962,"",306,Latham Avenue,Plymouth,Washington County,North Carolina,United States,27962,35.854004,-76.749195,false
+ 112 North A Street,Springfield,OR,97477,"",112,South A Street,Springfield,Lane County,Oregon,United States,97477,44.0457252,-123.0244936,true
+ 1711 18th Street,Lewiston,ID,83501,"",1711,18th Street,Lewiston,Nez Perce County,Idaho,United States,83501,46.4023331,-117.0060123,false
+ 1701 Hwy 51 South,Covington,TN,38019,"",1701,Highway 51 South,Covington,Tipton County,Tennessee,United States,38019,35.5418981,-89.66771990000001,false
+ 218 Whitehead Ave,South River,NJ,8882,"",218,Whitehead Avenue,South River,Middlesex County,New Jersey,United States,08882,40.4490494,-74.3767062,true
+ 121 Main Street,Sayreville,NJ,8872,"",121,Main Street,Sayreville,Middlesex County,New Jersey,United States,08872,40.4616199,-74.3615593,true
+ 417 East Cherokee Street,Wagoner,OK,74467,"",417,East Cherokee Street,Wagoner,Wagoner County,Oklahoma,United States,74467,35.9598835,-95.37290449999999,false
+ 4 S. Park Pl,Fair Haven,VT,5743,"",4,South Park Place,Fair Haven,Rutland County,Vermont,United States,05743,43.5926509,-73.26619699999999,true
+ 204 Northeast F Street,Stigler,OK,74462,"",204,Northeast F Street,Stigler,Haskell County,Oklahoma,United States,74462,35.2591978,-95.12312329999999,false
+ 700 East Main Street,Quinton,OK,74561,"",700,Main Street,Quinton,Pittsburg County,Oklahoma,United States,74561,35.1241031,-95.3631047,true
+ 123 South Wheeler Street,Sallisaw,OK,74955,"",123,South Wheeler Street,Sallisaw,Sequoyah County,Oklahoma,United States,74955,35.4580803,-94.7875516,false
+ 325 Malone Lane,Grayson,KY,41143,"",325,Malone Lane,Grayson,Carter County,Kentucky,United States,41143,38.3363704,-82.95226699999999,false
+ 55 Walnut Street,Winsted,CT,6098,"",55,Walnut Street,Winchester,Litchfield County,Connecticut,United States,06098,41.92353749999999,-73.06276299999999,true
+ 215 North Walnut Street,Upton,KY,42784,"",215,North Walnut Street,Upton,"",Kentucky,United States,42784,37.4655234,-85.89377019999999,false
+ 29 West Western Avenue,Sonora,KY,42776,"",29,West Western Avenue,Sonora,Hardin County,Kentucky,United States,42776,37.5237365,-85.8936731,false
+ 2098 Leitchfield Road,Elizabethtown,KY,42701,"",2098,Leitchfield Road,Elizabethtown,Hardin County,Kentucky,United States,42701,37.6779016,-85.8900991,false
+ 214 E. Main Street,Manchester,TN,37355,"",214,East Main Street,Manchester,Coffee County,Tennessee,United States,37355,35.4823815,-86.0860285,false
+ 1001 N. Riverfront Drive,Mankato,MN,56001,"",1001,North Riverfront Drive,Mankato,Blue Earth County,Minnesota,United States,56001,44.1758787,-93.99399199999999,false
+ 170 Phelps Road,Mannford,OK,74044,"","",Phelps Road,Mannford,Creek County,Oklahoma,United States,74044,36.1256802,-96.3535574,true
+ 68 Broadway,"Pawtucket,",RI,2860,"",68,Broadway,Pawtucket,Providence County,Rhode Island,United States,02680,41.876908,-71.38139199999999,true
+ 510 N. 12th Avenue,Pocatello,ID,83201,"",510,North 12th Avenue,Pocatello,Bannock County,Idaho,United States,83201,42.874566,-112.439357,false
+ 17000 Middlebelt Road,Livonia,MI,48154,"",17000,Middlebelt Road,Livonia,Wayne County,Michigan,United States,48154,42.4116579,-83.3345585,false
+ 21802 Lucille Road,Blakely,GA,39823,"",21802,Lucile Road,Blakely,Early County,Georgia,United States,39823,31.3585427,-84.9363128,true
+ 415 Washington Street,Williamston,NC,27892,"",415,Washington Street,Williamston,Martin County,North Carolina,United States,27892,35.84833709999999,-77.0579982,false
+ 200 Pecan St.,Robersonville,NC,27871,"",200,Pecan Street,Robersonville,Martin County,North Carolina,United States,27871,35.824678,-77.26065690000001,false
+ 1521 N. Main,Fall River,MA,2720,"",1521,North Main Street,Fall River,Bristol County,Massachusetts,United States,02720,41.7207479,-71.1459199,true
+ 1050 E. Fifth Street,Forest,MS,39074,"",1050,East 5th Street,Forest,Scott County,Mississippi,United States,39074,32.3656032,-89.4609229,false
+ 605 S. Preston Hwy,Sheperdsville,KY,40165,"",605,Preston Highway,Shepherdsville,Bullitt County,Kentucky,United States,40165,37.983968,-85.71797610000002,true
+ 2110 E. Laburnum Avenue,Richmond,VA,23222,"",2110,East Laburnum Avenue,Richmond,Henrico County,Virginia,United States,23222,37.5791359,-77.3980496,false
+ 16 Pleasant Street,Pepperell,MA,1463,"",16,Pleasant Street,Pepperell,Middlesex County,Massachusetts,United States,01463,42.66375,-71.581935,true
+ 1402 Audubon Road,New Castle,IN,47362,"",1402,Audubon Road,New Castle,Henry County,Indiana,United States,47362,39.9211978,-85.3689583,false
+ 64 Cartersville Road,Cumberland,VA,23040,"",64,Cartersville Road,Cumberland,Cumberland County,Virginia,United States,23040,37.5369764,-78.19382499999999,true
+ 28 Court Square,Marianna,AR,72360,"",28,Court Street,Marianna,Lee County,Arkansas,United States,72360,34.7738576,-90.75690089999999,true
+ 915 Piedmont Road,Marietta,GA,30066,"",915,Piedmont Road,Marietta,Cobb County,Georgia,United States,30066,34.0207414,-84.5216801,false
+ 595 Franklin Road SE,Marietta,GA,30067,"",595,Franklin Road Southeast,Marietta,Cobb County,Georgia,United States,30067,33.9379047,-84.5061648,false
+ 102 N. 3rd St,Hammonton,NJ,8037,"",102,North 3rd Street,Hammonton,Atlantic County,New Jersey,United States,08037,39.6378099,-74.8033348,true
+ 3325 Bexar Ave East,Hamilton,AL,35570,"",3325,Bexar Avenue East,Hamilton,Marion County,Alabama,United States,35570,34.1415678,-87.9332549,true
+ 4 West 41st Street,Sand Springs,OK,74063,"",4,West 41st Street,Sand Springs,Tulsa County,Oklahoma,United States,74063,36.104353,-96.119607,false
+ 327 North High Street,Rising Sun,IN,47040,"",327,North High Street,Rising Sun,Ohio County,Indiana,United States,47040,38.95369,-84.85232599999999,false
+ 206 N. Church Lane,Tappahannock,VA,22560,"",206,North Church Lane,Tappahannock,Essex County,Virginia,United States,22560,37.9304603,-76.8624339,true
+ 9293 Eastman Park Drive,Windsor,CO,80550,"",9293,Eastman Park Drive,Windsor,Weld County,Colorado,United States,80550,40.466204,-104.884686,false
+ 1392 S Jackson,Magnolia,AR,71753,"",1392,North Jackson Street,Magnolia,Columbia County,Arkansas,United States,71753,33.2800756,-93.2359802,true
+ 501 West 1st. Street,Fordyce,AR,71742,"",501,West 1st Street,Fordyce,Dallas County,Arkansas,United States,71742,33.80991,-92.4161299,false
+ 111 S. Mineral St,Keyser,WV,26726,"",111,South Mineral Street,Keyser,Mineral County,West Virginia,United States,26726,39.4385763,-78.9788135,false
+ 713 Central Ave N,Kent,WA,98032,"",713,Central Avenue North,Kent,King County,Washington,United States,98032,47.387263,-122.231815,false
+ 119 E. Market,Logansport,IN,46947,"",119,East Market Street,Logansport,Cass County,Indiana,United States,46947,40.751964,-86.368866,true
+ 470 Colfax Ave,Clifton,NJ,7013,"",470,Colfax Avenue,Clifton,Passaic County,New Jersey,United States,07013,40.8744097,-74.1672959,true
+ 66 Passaic Ave,Passaic,NJ,7055,"",66,Passaic Avenue,Passaic,Passaic County,New Jersey,United States,07055,40.8583905,-74.1278419,true
+ 396 S. Sandusky Road,Sandusky,MI,48471,"",396,South Sandusky Road,Sandusky,Sanilac County,Michigan,United States,48471,43.4134529,-82.829596,false
+ 2675 Main Street,Marlette,MI,48453,"",2675,Main Street,Marlette,Sanilac County,Michigan,United States,48453,43.3360999,-83.0815903,false
+ 570 N Meadowview Drive,Arimo,ID,83214,"",570,Meadowview Drive,Arimo,Bannock County,Idaho,United States,83214,42.5676225,-112.1765319,true
+ 117 W Main St,"Union,",NE,68455,"",117,West Main Street,Murray,Cass County,Nebraska,United States,68409,40.81298,-95.92332200000001,false
+ 412 Washington St,"Nehawka,",NE,68413,"",412,Washington Street,Nehawka,Cass County,Nebraska,United States,68413,40.8303495,-95.9913606,false
+ 1109 1st Corso,Nebraska City,NE,68410,"",1109,1st Corso,Nebraska City,Otoe County,Nebraska,United States,68410,40.6756904,-95.8593423,false
+ 310 E Cecil Street,Waynoka,OK,73860,"",310,East Cecil Street,Waynoka,Woods County,Oklahoma,United States,73860,36.5854826,-98.87885999999999,false
+ 230 Flynn,Alva,OK,73717,"",230,Flynn Street,Alva,Woods County,Oklahoma,United States,73717,36.8049257,-98.6607714,true
+ 420 W. Grove Street,Greenville,MI,48838,"",420,West Grove Street,Greenville,Montcalm County,Michigan,United States,48838,43.180882,-85.2598096,false
+ 400 Snowden Drive,Andalusia,AL,36420,"",400,Snowden Drive,Andalusia,Covington County,Alabama,United States,36420,31.3099931,-86.4977388,true
+ 3368 Alabama Highway 205 N,Albertville,AL,35950,"",3368,Highway 205,Albertville,Marshall County,Alabama,United States,35950,34.288521,-86.2672144,true
+ 414 NW 3rd Street,Abilene,KS,67410,"",414,Northwest 3rd Street,Abilene,Dickinson County,Kansas,United States,67410,38.917612,-97.217529,false
+ 802 Alfred Street,Scott,LA,70583,"",802,Alfred Street,Scott,Lafayette Parish,Louisiana,United States,70583,30.232386,-92.09410799999999,false
+ 600 West Country Club,Elk City,OK,73644,"",600,West Country Club Boulevard,Elk City,Beckham County,Oklahoma,United States,73644,35.4218867,-99.40979279999999,true
+ 8253 S. Saginaw Rd.,Grand Blanc,MI,48439,"",8253,South Saginaw Street,Grand Blanc,Genesee County,Michigan,United States,48439,42.911907,-83.606999,false
+ 101 West Fourth Street,Waldron,AR,72958,"","",West 4th Street,Waldron,Scott County,Arkansas,United States,72958,34.8986891,-94.0958587,true
+ 108 S Seba Scott Ave,Mansfield,AR,72944,"","","",Mansfield,Sebastian County,Arkansas,United States,"",35.059541,-94.2527108,true
+ 1300 4th Avenue N,Clanton,AL,35046,"",1300,4th Avenue North,Clanton,Chilton County,Alabama,United States,35045,32.8395092,-86.6405698,true
+ 1312 Park Street,Carrollton,GA,30117,"",1312,South Park Street,Carrollton,Carroll County,Georgia,United States,30117,33.555162,-85.0722278,true
+ 1908 Martin Luther King Drive,Albany,GA,31701,"",1908,Martin Luther King Junior Drive,Albany,Dougherty County,Georgia,United States,31701,31.554442,-84.1551372,true
+ 401 S. Church St.,Hahira,GA,31632,"",401,South Church Street,Hahira,Lowndes County,Georgia,United States,31632,30.988,-83.3711,false
+ 376 E. Sarnia Street,Winona,MN,55987,"",376,East Sarnia Street,Winona,Winona County,Minnesota,United States,55987,44.040656,-91.632206,false
+ 700 W. Central Ave,La Follette,TN,37766,"",700,West Central Avenue,LaFollette,Campbell County,Tennessee,United States,37766,36.3752255,-84.1302189,false
+ 601 North York Street,Gastonia,NC,28052,"",601,North York Street,Gastonia,Gaston County,North Carolina,United States,28052,35.269335,-81.18634999999999,false
+ 48 Elm Street,Montclair,NJ,7042,"",48,Elm Street,Montclair,Essex County,New Jersey,United States,07042,40.8085274,-74.2152887,true
+ 148 W. Main Street,Brodhead,KY,40409,"",148,West Main Street,Brodhead,Rockcastle County,Kentucky,United States,40409,37.4035866,-84.41727120000002,false
+ 1200 Michigan Avenue,Marysville,MI,48040,"",1200,Michigan Avenue,Marysville,St. Clair County,Michigan,United States,48040,42.9123895,-82.4804759,false
+ 1322 Helm Street,Henderson,KY,42420,"",1322,Helm Street,Henderson,Henderson County,Kentucky,United States,42420,37.8270238,-87.5799838,false
+ 320 Hwy 48,Summerville,GA,30747,"",320,Highway 48,Summerville,Chattooga County,Georgia,United States,30747,34.4753233,-85.3540914,false
+ 828 Watt Street,Jeffersonville, IN ,47130,"",828,Watt Street,Jeffersonville,Clark County,Indiana,United States,47130,38.2799641,-85.7398774,false
+ 420 East Water Street,Mayfield,KY,42066,"",420,East Water Street,Mayfield,Graves County,Kentucky,United States,42066,36.73959809999999,-88.631097,false
+ 409 East Noel Avenue,Madisonville,KY,42431,"",409,East Noel Avenue,Madisonville,Hopkins County,Kentucky,United States,42431,37.3324553,-87.4915546,false
+ 913 N. Arendell Avenue,Zebulon,NC,27597,"",913,North Arendell Avenue,Zebulon,Wake County,North Carolina,United States,27597,35.830505,-78.319143,false
+ 839 Jackson St.,Roanoke Rapids,NC,27870,"",839,Jackson Street,Roanoke Rapids,Halifax County,North Carolina,United States,27870,36.4584606,-77.6577659,false
+ 313 E Jefferson,Jackson,NC,27845,"",313,East Jefferson Street,Jackson,Northampton County,North Carolina,United States,27845,36.389289,-77.412849,true
+ 115 S Dennis St,Enfield,NC,27823,"",115,South Dennis Street,Enfield,Halifax County,North Carolina,United States,27823,36.181975,-77.6667949,false
+ 131 Commerce St,Aulander,NC,27805,"",131,South Commerce Street,Aulander,Bertie County,North Carolina,United States,27805,36.2283968,-77.1138562,true
+ 400 Faitoute Ave,Roselle Park,NJ,7204,"",400,Faitoute Avenue,Roselle Park,Union County,New Jersey,United States,07204,40.6615309,-74.2774589,true
+ 209 E. Main Street,Mannington,WV,26582,"",209,East Main Street,Mannington,Marion County,West Virginia,United States,26582,39.5311383,-80.3418293,false
+ 325 Main Street,Ashland,MA,1721,"",325,Main Street,Ashland,Middlesex County,Massachusetts,United States,01721,42.2571472,-71.46203,true
+ 448 Juliana Street,Elizabeth,WV,26143,"",448,Juliana Street,Elizabeth,Wirt County,West Virginia,United States,26143,39.063478,-81.3951774,false
+ 105 Locust St.,Carlisle,KY,40311,"",105,North Locust Street,Carlisle,Nicholas County,Kentucky,United States,40311,38.3119781,-84.0289427,true
+ 3206 Gillionville Road,Albany,GA,31721,"",3206,Gillionville Road,Albany,Dougherty County,Georgia,United States,31721,31.5851853,-84.2338267,false
+ 58 N. Main Street,Medford,NJ,8055,"",58,North Main Street,Medford,Burlington County,New Jersey,United States,08055,39.90247919999999,-74.8242961,true
+ 43 Delsea Drive North,Glassboro,NJ,8028,"",43,Delsea Drive,Glassboro,Gloucester County,New Jersey,United States,08028,39.7042945,-75.1077835,true
+ 8539 Elk River Road No.,Clendenin,WV,25045,"",8539,Elk River Road South,Clendenin,Kanawha County,West Virginia,United States,25045,38.4815751,-81.30346399999999,true
+ 123 W. Commerce Street,Smyrna,DE,19977,"",123,West Commerce Street,Smyrna,Kent County,Delaware,United States,19977,39.298556,-75.60840999999999,false
+ 601 S Kelly,Edmond,OK,73003,"",601,South Kelly Avenue,Edmond,Oklahoma County,Oklahoma,United States,73003,35.6508386,-97.4967204,true
+ 690 East 56th Street,Brownsburg,IN,46112,"",690,East 56th Street,Brownsburg,Hendricks County,Indiana,United States,46112,39.8518632,-86.3838986,false
+ 310 Elizabeth St.,Wallace,NC,28466,"",310,Elizabeth Street,Wallace,Duplin County,North Carolina,United States,28466,34.748367,-77.9967504,false
+ 517 Kellogg Avenue,Lake Arthur,LA,70549,"",517,Kellogg Avenue,Lake Arthur,Jefferson Davis Parish,Louisiana,United States,70549,30.0843922,-92.6798233,false
+ 511 N. Cutting Avenue,Jennings,LA,70546,"",511,North Cutting Avenue,Jennings,Jefferson Davis Parish,Louisiana,United States,70546,30.2248078,-92.6555286,false
+ 514 Second,Gueydan,LA,70542,"",514,2nd Street,Gueydan,Vermilion Parish,Louisiana,United States,70542,30.0258311,-92.5126308,true
+ 4031 Clyde Park SW,Wyoming,MI,49509,"",4031,Clyde Park Avenue Southwest,Wyoming,Kent County,Michigan,United States,49509,42.8908051,-85.6852375,true
+ 4145 Chicago Avenue SW,Grandville,MI,49418,"",4145,Chicago Drive Southwest,Grandville,Kent County,Michigan,United States,49418,42.9088105,-85.7667283,true
+ 41590 Fenwick Street,Leonardtown,MD,20650,"",41590,Fenwick Street,Leonardtown,St. Mary's County,Maryland,United States,20650,38.291728,-76.637529,false
+ 195 Holy Cross Road,Loretto,KY,40037,"",195,Holy Cross Road,Loretto,Marion County,Kentucky,United States,40037,37.6387034,-85.4012253,false
+ 4660 Lafayette Street,Terre Haute,IN,47805,"",4660,North Lafayette Street,Terre Haute,Vigo County,Indiana,United States,47805,39.5221908,-87.374844,true
+ 343 N. Shore Drive,Forest Lake,MN,55025,"",343,North Shore Drive,Forest Lake,Washington County,Minnesota,United States,55025,45.2828065,-92.9832461,false
+ 210 Winthrop Street,Winthrop,MA,2152,"",210,Winthrop Street,Winthrop,Suffolk County,Massachusetts,United States,02152,42.3762508,-70.98413359999999,true
+ 6248 Hwy 88,Maury City,TN,38050,"",6248,Highway 88,Alamo,Crockett County,Tennessee,United States,38001,35.809731,-89.2190339,true
+ 704 Council St,Attica,IN ,47918,"",704,South Council Street,Attica,Fountain County,Indiana,United States,47918,40.2853384,-87.24854789999999,true
+ 705 Old Red Bud Road,Calhoun,GA,30701,"",705,Old Red Bud Road,Calhoun,Gordon County,Georgia,United States,30701,34.5108732,-84.9464454,false
+ 908 N. Court Street,Quitman,GA,31643,"",908,North Court Street,Quitman,Brooks County,Georgia,United States,31643,30.7954057,-83.5600245,false
+ 45 Pine St,Willingboro,NJ,8046,"",45,Pine Street,Willingboro,Burlington County,New Jersey,United States,08046,40.03783,-74.9130563,true
+ 138 West Landis Avenue,Vineland,NJ,8360,"",138,West Landis Avenue,Vineland,Cumberland County,New Jersey,United States,08360,39.486885,-75.03361,true
+ 4522 Westfield Ave,Pennsauken,NJ,8110,"",4522,Westfield Avenue,Pennsauken Township,Camden County,New Jersey,United States,08110,39.9566536,-75.068063,true
+ 1001 South Fourth Street,Camden,NJ,8103,"",1001,South 4th Street,Camden,Camden County,New Jersey,United States,08103,39.933385,-75.12253179999999,true
+ 1119 Riddleville Road,Sandersville,GA,31082,"",1119,Riddleville Road,Sandersville,Washington County,Georgia,United States,31082,32.9694266,-82.7991483,true
+ 149 Carver Avenue,Atmore,AL,36502,"",149,Carver Avenue,Atmore,Escambia County,Alabama,United States,36502,31.0315922,-87.4837943,false
+ 600 Second Street N.W,Austin,MN,55912,"",600,2nd Street Northwest,Austin,Mower County,Minnesota,United States,55912,43.6707908,-92.9772758,false
+ 180 Church Street NE,Marietta,GA,30060,"",180,Church Street,Marietta,Cobb County,Georgia,United States,30060,33.95575,-84.54992299999999,false
+ 3940 Macland Road,Powder Springs,GA,30127,"",3940,Macland Road,Powder Springs,Cobb County,Georgia,United States,30127,33.9029625,-84.66961529999999,false
+ 135 Broadway Street,Jackson,OH,45640,"",135,Broadway Street,Jackson,Jackson County,Ohio,United States,45640,39.05047520000001,-82.63941919999999,false
+ 12 Langdon Street,Plymouth,NH,3264,"",12,Langdon Street,Plymouth,Grafton County,New Hampshire,United States,03264,43.7538178,-71.6933797,true
+ 204 D.W. Highway,Meredith,NH,3253,"","","",Meredith,Belknap County,New Hampshire,United States,03253,43.6478158,-71.49514169999999,true
+ 153 East Washington Street,Knox, IN,46534,"",153,East Washington Street,Knox,Starke County,Indiana,United States,46534,41.29854479999999,-86.62124070000002,false
+ 228 W. Broad St,Paulsboro,NJ,8066,"",228,West Broad Street,Paulsboro,Gloucester County,New Jersey,United States,08066,39.8288742,-75.24468329999999,true
+ 206 North Commerce Street,Ripley,MS,38663,"",206,North Commerce Street,Ripley,Tippah County,Mississippi,United States,38663,34.731511,-88.948042,false
+ 220 W. Broadway Ave.,Maryville,TN,37801,"",220,West Broadway Avenue,Maryville,Blount County,Tennessee,United States,37801,35.7541529,-83.9726204,false
+ 36 Bank Row,Greenfield,MA,1301,"",36,Bank Row Street,Greenfield,Franklin County,Massachusetts,United States,01301,42.586699,-72.601263,true
+ 1200 2nd Avenue,West Point,GA,31833,"",1200,2nd Avenue,West Point,Troup County,Georgia,United States,31833,32.881205,-85.180798,false
+ 223 East 6th Street,Pawhuska,OK,74056,"",223,East 6th Street,Pawhuska,Osage County,Oklahoma,United States,74056,36.6642132,-96.3372718,false
+ 1002 East Main Street,Philadelphia,MS,39350,"",1002,East Main Street,Philadelphia,Neshoba County,Mississippi,United States,39350,32.7712537,-89.0961781,false
+ 205 W. Main Street,Beggs,OK,74421,"",205,Holly Street,Beggs,Okmulgee County,Oklahoma,United States,74421,35.7430028,-96.0717257,false
+ 421 S. Hughes,Morris,OK,74445,"",421,North Hughes Avenue,Morris,Okmulgee County,Oklahoma,United States,74445,35.6132723,-95.8602126,true
+ 303 E. Seventh Street,Okmulgee,OK,74447,"",303,East 7th Street,Okmulgee,Okmulgee County,Oklahoma,United States,74447,35.6225784,-95.9689474,false
+ 467 Dublin Street,Machias,ME,4654,"",467,Dublin Street,Machias,Washington County,Maine,United States,04654,44.6919854,-67.48020319999999,true
+ 1192 Boot Cove Rd,Lubec,ME,4652,"","",Boot Cove Road,Lubec,Washington County,Maine,United States,04652,44.7931451,-67.012743,true
+ 1308 S. Third St,Mebane,NC,27302,"",1308,South 3rd Street,Mebane,Alamance County,North Carolina,United States,27302,36.0762179,-79.2922124,false
+ 1030 South Main Street,Graham,NC,27253,"",1030,South Main Street,Graham,Alamance County,North Carolina,United States,27253,36.050008,-79.3977037,false
+ 3802 Cleveland Ave SE,Tumwater,WA,98501,"",3802,Cleveland Avenue Southeast,Tumwater,Thurston County,Washington,United States,98501,47.0136009,-122.8974862,false
+ 703 W. Railroad Ave,Shelton, WA,98584,"",703,West Railroad Avenue,Shelton,Mason County,Washington,United States,98584,47.2132099,-123.107608,false
+ 137 N. Main Street,Greenwood,AR,72936,"",137,North Main Street,Greenwood,Sebastian County,Arkansas,United States,72936,35.2155439,-94.25619019999999,false
+ 1200 E. Forrest Street,Athens,AL,35613,"",1200,East Forrest Street,Athens,Limestone County,Alabama,United States,35613,34.7961428,-86.95371070000002,false
+ 780 Anderson Avenue,Cliffside Park,NJ,7010,"",780,Anderson Avenue,Cliffside Park,Bergen County,New Jersey,United States,07010,40.831271,-73.984736,true
+ 44 15th Street,Wheeling,WV,26003,"",44,15th Street,Wheeling,Ohio County,West Virginia,United States,26003,40.064929,-80.71890499999999,false
+ 1500 Morris Avenue,Union,NJ,7083,"",1500,Morris Avenue,Union,Union County,New Jersey,United States,07083,40.690314,-74.2507056,true
+ 304 Courtney,Lewisburg,WV,24901,"",304,Courtney Drive,Lewisburg,Greenbrier County,West Virginia,United States,24901,37.8036969,-80.44882020000001,true
+ US Route 219,Frankford,WV,24938,"","",Knobbs Road,Frankford,Greenbrier County,West Virginia,United States,24938,37.9537504,-80.3823539,true
+ 3710 Kirkwood Hwy,"Wilmington,",DE,19808,"",3710,Kirkwood Highway,Wilmington,New Castle County,Delaware,United States,19808,39.73236,-75.640025,false
+ 3924 Concord Pik,Wilmington,DE,19803,"",3924,Concord Pike,Wilmington,New Castle County,Delaware,United States,19803,39.8079036,-75.5504648,true
+ 2425 Plainfield Avenue,South Plainfield,NJ,7080,"",2425,Plainfield Avenue,South Plainfield,Middlesex County,New Jersey,United States,07080,40.5855326,-74.4176796,true
+ 770 Fairmont Road,Morgantown,WV,26501,"",770,Fairmont Road,Morgantown,Monongalia County,West Virginia,United States,26501,39.633691,-79.979885,false
+ 417 S. Houston Lake,Warner Robins,GA,31088,"",417,South Houston Lake Road,Warner Robins,Houston County,Georgia,United States,31088,32.605593,-83.6765721,true
+ 447 W. Myles Ave,Pennsboro,WV,26415,"",447,West Myles Avenue,Pennsboro,Ritchie County,West Virginia,United States,26415,39.2839439,-80.9786685,false
+ 30 South Main Street,Dry Ridge,KY,41035,"",30,South Main Street,Dry Ridge,Grant County,Kentucky,United States,41035,38.6814692,-84.5882456,false
+ 440 Old Cornith-Owenton Rd,Corinth,KY,41010,"",440,Old Corinth Owenton Road,Corinth,Grant County,Kentucky,United States,41010,38.495682,-84.5660371,true
+ 322 Main Street,Stoneham,MA,2180,"",322,Main Street,Stoneham,Middlesex County,Massachusetts,United States,02180,42.4814124,-71.0996938,true
+ 20 West 2nd,Hohenwald,TN,38462,"",20,West 2nd Avenue,Hohenwald,Lewis County,Tennessee,United States,38462,35.545388,-87.553668,true
+ 401 W. Canal Street,Picayune,MS,39466,"",401,West Canal Street,Picayune,Pearl River County,Mississippi,United States,39466,30.5266727,-89.68510169999999,false
+ 19 Yale Avenue,Wakefield,MA,1880,"",19,Yale Avenue,Wakefield,Middlesex County,Massachusetts,United States,01880,42.5050962,-71.0737998,true
+ 231 Falls Avenue,Wabash, IN,46992,"",231,Falls Avenue,Wabash,Wabash County,Indiana,United States,46992,40.801006,-85.82838900000002,false
+ 102 West End Avenue,Centerville,TN,37033,"",102,West End Avenue,Centerville,Hickman County,Tennessee,United States,37033,35.7793943,-87.46779599999999,false
+ 366 South Main Street,Lobelville,TN,37097,"",366,South Main Street,Lobelville,Perry County,Tennessee,United States,37097,35.76729419999999,-87.7843449,true
+ 1207 S. Division Street,Blytheville,AR,72315,"",1207,South Division Street,Blytheville,Mississippi County,Arkansas,United States,72315,35.913914,-89.91973290000001,false
+ 809 Main Street,South Weymouth,MA,2190,"",809,Main Street,Weymouth,Norfolk County,Massachusetts,United States,02190,42.1776471,-70.95624459999999,true
+ 40 Sea Street,North Weymouth,MA,2191,"",40,Sea Street,Weymouth,Norfolk County,Massachusetts,United States,02191,42.241708,-70.94632899999999,true
+ 3 Charles Street,East Weymouth,MA,2189,"",3,Charles Street,Weymouth,Norfolk County,Massachusetts,United States,02189,42.2151562,-70.93811149999999,true
+ 202 North Main Street,Owenton,KY,40359,"",202,North Main Street,Owenton,Owen County,Kentucky,United States,40359,38.5373065,-84.8361889,false
+ 248 W Seminary Street,Owenton,KY,40359,"",248,West Seminary Street,Owenton,Owen County,Kentucky,United States,40359,38.536642,-84.8412073,false
+ 150 Sawnee Drive,Cumming,GA,30028,"",150,Sawnee Drive,Cumming,Forsyth County,Georgia,United States,30040,34.2222829,-84.134372,true
+ 303 Spring Street,Waynesboro,MS,39367,"",303,Spring Street,Waynesboro,Wayne County,Mississippi,United States,39367,31.6703726,-88.63815989999999,false
+ 910 N. Campbell Avenue,Beloit,KS,67420,"",910,North Campbell Avenue,Beloit,Mitchell County,Kansas,United States,67420,39.4673598,-98.10763960000001,false
+ 305 E Church Street.,Laurinburg,NC,28352,"",305,East Church Street,Laurinburg,Scotland County,North Carolina,United States,28352,34.7725094,-79.4598475,false
+ Highway 96 East,Butler,GA,31006,"","",Highway 96,Butler,Taylor County,Georgia,United States,31006,32.5708488,-84.2866604,true
+ 1701 W. Main Street,Waynesboro,VA,22980,"",1701,West Main Street,Waynesboro,"",Virginia,United States,22980,38.0741422,-78.9050609,false
+ 138 W. Slosson Avenue,Reed City,MI,49677,"",138,West Slosson Avenue,Reed City,Osceola County,Michigan,United States,49677,43.8748688,-85.510717,false
+ 305 North Hill,Griffin,GA,30223,"",305,North Hill Street,Griffin,Spalding County,Georgia,United States,30223,33.252431,-84.2641529,true
+ 715 N. Jefferson Street,Huntington, IN,46750,"",715,North Jefferson Street,Huntington,Huntington County,Indiana,United States,46750,40.884474,-85.496951,false
+ 204 S. Main Street,Monroe,NC,28112,"",204,South Main Street,Monroe,Union County,North Carolina,United States,28112,34.9797631,-80.5506012,false
+ 5716 Monroe Road,Charlotte,NC,28212,"",5716,Monroe Road,Charlotte,Mecklenburg County,North Carolina,United States,28212,35.1865835,-80.76736439999999,false
+ 6300 Mallard Creek Road,Charlotte,NC,28262,"",6300,Mallard Creek Road,Charlotte,Mecklenburg County,North Carolina,United States,28262,35.3015726,-80.7996383,false
+ 7428 Matthews-Mint Hill Road,Charlotte,NC,28227,"",7428,Matthews-Mint Hill Road,Charlotte,Mecklenburg County,North Carolina,United States,28227,35.17599,-80.652237,false
+ 10500 Park Road,Charlotte,NC,28210,"",10500,Park Road,Charlotte,Mecklenburg County,North Carolina,United States,28210,35.093483,-80.869096,false
+ 5401 Schaefer,Dearborn,MI,48126,"",5401,Schaefer Road,Dearborn,Wayne County,Michigan,United States,48126,42.3272842,-83.17644870000001,true
+ 54 McFarland Drive Hwy. 108,Tryon,NC,28782,"","","",Tryon,Polk County,North Carolina,United States,"",35.2081694,-82.2384479,true
+ 1901 Burg Jones Lane,Monroe,LA,71202,"",1901,Burg Jones Lane,Monroe,Ouachita Parish,Louisiana,United States,71202,32.4841989,-92.08869,false
+ 1223 Broadway Street,Delhi,LA,71232,"",1223,Broadway Street,Delhi,Richland Parish,Louisiana,United States,71232,32.4452086,-91.4930251,true
+ 175 VFW Post Road,Cornelia,GA,30531,"","","",Cornelia,Habersham County,Georgia,United States,"",34.5114883,-83.5271166,true
+ 6670 McClellan St,West Hamlin,WV,25571,"",6670,McClellan Street,West Hamlin,Lincoln County,West Virginia,United States,25571,38.2858043,-82.1954341,true
+ 105 E. Loula,Olathe,KS,66061,"",105,East Loula Street,Olathe,Johnson County,Kansas,United States,66061,38.8803085,-94.8190465,true
+ 2290 Provident Court,Warsaw, IN,46580,"",2290,Provident Court,Warsaw,Kosciusko County,Indiana,United States,46580,41.2471125,-85.8242404,false
+ 206 N.W. 5th St,Corvallis,OR,97330,"",206,Northwest 5th Street,Corvallis,Benton County,Oregon,United States,97330,44.566196,-123.262663,false
+ 301 Main Street,South Berwick,ME,3908,"",301,Main Street,Somersworth,Strafford County,New Hampshire,United States,03878,43.25357340000001,-70.8593312,true
+ 504 N. Michigan Ave,Saginaw,MI,48602,"",504,North Michigan Avenue,Saginaw,Saginaw County,Michigan,United States,48602,43.4199841,-83.96016929999999,false
+ 401 S Center St.,Mt. Olive,NC,28365,"",401,Southeast Center Street,Mount Olive,Duplin County,North Carolina,United States,28365,35.1485257,-78.108779,true
+ 900 S George Street,Goldsboro,NC,27530,"",900,South George Street,Goldsboro,Wayne County,North Carolina,United States,27530,35.3722342,-78.00553719999999,false
+ 1200 Railroad St E,Douglas,GA,31533,"",1200,Railroad Street East,Douglas,Coffee County,Georgia,United States,31533,31.5042111,-82.8345415,false
+ 115 E. Birch Lane,Romney,WV,26757,"",115,East Birch Lane,Romney,Hampshire County,West Virginia,United States,26757,39.343667,-78.75401099999999,false
+ 17414 West Virginia 55,Baker,WV,26801,"",17414,Highway 55,Baker,Hardy County,West Virginia,United States,26801,39.0459025,-78.7399179,true
+ Us Route 50,Augusta,WV,26704,"","",Little Cacapon River Road,Augusta,Hampshire County,West Virginia,United States,26704,39.364305,-78.6213499,true
+ 109 Broad Street,Martinsville, VA,24112,"",109,Broad Street,Martinsville,"",Virginia,United States,24112,36.68860129999999,-79.8717168,false
+ 112 Jefferson Street,Whiteville,NC,28472,"",112,Jefferson Street,Whiteville,Columbus County,North Carolina,United States,28472,34.3381733,-78.7024002,false
+ 1509 Notasulga Road,Tuskegee,AL,36083,"",1509,Notasulga Road,Tuskegee,Macon County,Alabama,United States,36083,32.4418286,-85.6900635,true
+ 305 N. Lowell,Ironwood,MI,49938,"",305,North Lowell Street,Ironwood,Gogebic County,Michigan,United States,49938,46.4560821,-90.1727091,true
+ 623 Marsh,Kinsley,KS,67547,"",623,Marsh Avenue,Kinsley,Edwards County,Kansas,United States,67547,37.9225688,-99.4112081,true
+ 752 Campbellsville Road,Liberty,KY,42539,"",752,Campbellsville Street,Liberty,Casey County,Kentucky,United States,42539,37.3192307,-84.9416036,true
+ 227 Campbell Street,Elberton,GA,30635,"",227,Campbell Street,Elberton,Elbert County,Georgia,United States,30635,34.109778,-82.85762799999999,false
+ 50 Commerce Street,Harrington,DE,19952,"",50,Commerce Street,Harrington,Kent County,Delaware,United States,19952,38.92201800000001,-75.579097,false
+ 501 Ave G,Kentwood,LA,70444,"",501,Avenue G,Kentwood,Tangipahoa Parish,Louisiana,United States,70444,30.9368164,-90.5126409,false
+ 229 Main Street,Crab Orchard,KY,40419,"",229,Main Street,Crab Orchard,Lincoln County,Kentucky,United States,40419,37.461186,-84.5049884,false
+ 38 Jackson Street,Newnan,GA,30263,"",38,Jackson Street,Newnan,Coweta County,Georgia,United States,30263,33.3773291,-84.8001578,false
+ Silver Creek,Silver Creek,NE,68663,"","","",Silver Creek,Merrick County,Nebraska,United States,68663,41.3165424,-97.66496699999999,false
+ 3119 E Marion Ave,Lake Park,GA,31636,"","",East Marion Avenue,Lake Park,Lowndes County,Georgia,United States,31636,30.6816077,-83.1765429,true
+ 6000 Sam Snead Memorial Hwy,Hot Springs,VA,24445,"","","",Hot Springs,Bath County,Virginia,United States,"",37.9993993,-79.831587,true
+ 60 Pleasant,Woburn,MA,1801,"",60,Pleasant Street,Woburn,Middlesex County,Massachusetts,United States,01801,42.4779807,-71.15514399999999,true
+ 12830 U.S. 70 Business Highway West,Clayton,NC,27520,"",12830,U.S. 70 Business,Clayton,Johnston County,North Carolina,United States,27520,35.6655155,-78.49571069999999,true
+ 721 E. Morehead Street,Reidsville,NC,27320,"",721,East Morehead Street,Reidsville,Rockingham County,North Carolina,United States,27320,36.3644182,-79.6496141,false
+ 700 South New Hope Road,Gastonia,NC,28054,"",700,South New Hope Road,Gastonia,Gaston County,North Carolina,United States,28054,35.2548927,-81.1469798,false
+ 515 N Central Ave,Belmont,NC,28012,"",515,North Central Avenue,Belmont,Gaston County,North Carolina,United States,28012,35.249499,-81.042884,false
+ 303 E. Cherry Street,Douglas,GA,31533,"",303,East Cherry Street,Douglas,Coffee County,Georgia,United States,31533,31.5035539,-82.8482805,false
+ 39 W. Main Street,Butler,GA,31006,"",39,West Main Street,Butler,Taylor County,Georgia,United States,31006,32.5574914,-84.2402315,false
+ 328 S. Dugger Ave,Roberta,GA,31078,"",328,South Dugger Avenue,Roberta,Crawford County,Georgia,United States,31078,32.7153237,-84.0107134,true
+ 42 S. Collins St,Reynolds,GA,31076,"","",South Collins Street,Reynolds,Taylor County,Georgia,United States,31076,32.5550099,-84.0933065,true
+ 1429 Greenlake Road,Ellerbe,NC,28338,"",1429,Green Lake Road,Ellerbe,Richmond County,North Carolina,United States,28338,35.0618086,-79.7542854,true
+ 215 Mercer Street,Washington,GA,30673,"",215,Mercer Street,Washington,Wilkes County,Georgia,United States,30673,33.7350995,-82.7494055,false
+ 616 South 8th Street,Noble,OK,73068,"",616,South 8th Street,Noble,Cleveland County,Oklahoma,United States,73068,35.131741,-97.38887299999999,false
+ 249 S Main Street,Rutherfordton,NC,28139,"",249,South Main Street,Rutherfordton,Rutherford County,North Carolina,United States,28139,35.3603742,-81.9590316,false
+ 86 Franklin Street B,Braintree,MA,2184,"",86,Franklin Street,Braintree,Norfolk County,Massachusetts,United States,02184,42.2042904,-71.0090491,true
+ 1980 Martin Luther King Drive,Lumberton,NC,28358,"",1980,Martin Luther King Junior Drive,Lumberton,Robeson County,North Carolina,United States,28358,34.6077387,-79.02350109999999,true
+ 702 W. College,Booneville,MS,38829,"",702,West College Street,Booneville,Prentiss County,Mississippi,United States,38829,34.6548576,-88.5697489,true
+ 117 Underwood Road,McMinnville,TN,37110,"",117,Underwood Road,McMinnville,Warren County,Tennessee,United States,37110,35.6991148,-85.7970593,false
+ 5784 Greenmount Road,Harrisonburg,VA,22801,"",5784,Greenmount Road,Harrisonburg,Rockingham County,Virginia,United States,22802,38.519152,-78.9082036,true
+ 2129 N. Park Street,Pocahontas,AR,72455,"",2129,North Park Street,Pocahontas,Randolph County,Arkansas,United States,72455,36.2783682,-90.9841962,false
+ 304 Church Street,Clinton,MA,1510,"",304,Church Street,Clinton,Worcester County,Massachusetts,United States,01510,42.4166917,-71.6799578,true
+ 1 Summer,Cohasset,MA,2025,"",1,Summer Street,Cohasset,Norfolk County,Massachusetts,United States,02025,42.2361303,-70.7973414,true
+ 30 Central,Norwell,MA,2061,"",30,Central Street,Norwell,Plymouth County,Massachusetts,United States,02061,42.1638336,-70.7935523,true
+ 1220 Third Avenue East,Shakopee,MN,55379,"",1220,3rd Avenue East,Shakopee,Scott County,Minnesota,United States,55379,44.79859159999999,-93.5097057,false
+ 401 South Cummings Street,Fulton,MS,38843,"",401,South Cummings Street,Fulton,Itawamba County,Mississippi,United States,38843,34.2709161,-88.4089063,false
+ 124 Church Street,Sneedville,TN,37869,"",124,Church Street,Sneedville,Hancock County,Tennessee,United States,37869,36.5306269,-83.21705779999999,false
+ 1101 Rockingham Road,Rockingham,NC,28379,"",1101,Rockingham Road,Rockingham,Richmond County,North Carolina,United States,28379,34.928785,-79.75461399999999,false
+ 319 W. Broad Street,Saint Pauls,NC,28384,"",319,West Broad Street,Saint Pauls,Robeson County,North Carolina,United States,28384,34.8069441,-78.9739058,false
+ 525 W. Highway 152,Mustang,OK,73064,"",525,West State Highway 152,Mustang,Canadian County,Oklahoma,United States,73064,35.3923,-97.7339967,true
+ 1313 E. 3rd Street,Corinth,MS,38834,"",1313,East 3rd Street,Corinth,Alcorn County,Mississippi,United States,38834,34.9415069,-88.5094288,false
+ 9701 Malloy Avenue,Laurel Hill,NC,28351,"",9701,Malloy Avenue,Laurel Hill,Scotland County,North Carolina,United States,28351,34.807706,-79.5434329,false
+ 309 North Street,Milford,DE,19963,"",309,North Street,Milford,Kent County,Delaware,United States,19963,38.91659,-75.43021999999999,false
+ 99 Glenda Drive,Boaz,AL,35957,"",99,Glenda Drive,Boaz,Marshall County,Alabama,United States,35957,34.2141276,-86.158844,false
+ 711 N. State St.,Waseca,MN,56093,"",711,North State Street,Waseca,Waseca County,Minnesota,United States,56093,44.08462979999999,-93.50780879999999,false
+ 801 Chickasha,Chickasha,OK,73018,"",801,West Chickasha Avenue,Chickasha,Grady County,Oklahoma,United States,73018,35.0511304,-97.94275569999999,true
+ 125 E. 1st Street,Wellston,OH,45692,"",125,East 1st Street,Wellston,Jackson County,Ohio,United States,45692,39.1227274,-82.5333539,false
+ 504 W. Washington Avenue,Alpena,MI,49707,"",504,West Washington Avenue,Alpena,Alpena County,Michigan,United States,49707,45.0612219,-83.44431999999999,false
+ 3 Franklin Street,Rumford,ME,4276,"",3,Franklin Street,Rumford,Oxford County,Maine,United States,04276,44.5444301,-70.5485175,true
+ 315 S. Madison Street,Albany,GA,31701,"",315,South Madison Street,Albany,Dougherty County,Georgia,United States,31701,31.5725761,-84.16222549999999,false
+ 760 Highway 11 SE,Monroe,GA,30655,"",760,Highway 11,Monroe,Walton County,Georgia,United States,30655,33.7848502,-83.70873110000001,true
+ 2509 Limestone Road,Wilmington,DE,19808,"",2509,Limestone Road,Wilmington,New Castle County,Delaware,United States,19808,39.72990009999999,-75.665319,false
+ 703 N. Broom St.,Wilmington,DE,19805,"",703,North Broom Street,Wilmington,New Castle County,Delaware,United States,19805,39.7490313,-75.56445529999999,false
+ 2530 Dogtown Road,Goochland,VA,23063,"",2530,Dogtown Road,Goochland,Goochland County,Virginia,United States,23063,37.732512,-77.933069,false
+ 795 Main St,Fair Bluff,NC,28439,"",795,Main Street,Fair Bluff,Columbus County,North Carolina,United States,28439,34.3153836,-79.03062229999999,false
+ 1564 Highway 52,Crossett,AR,71635,"",1564,State Highway 52 West,Crossett,Ashley County,Arkansas,United States,71635,33.170164,-91.93510099999999,true
+ 310 E. Central Avenue,Medford,MN,55049,"",310,East Central Avenue,Medford,Steele County,Minnesota,United States,55049,44.1732324,-93.2444401,true
+ 1408 Canton Road NE,Marietta,GA,30066,"",1408,Canton Road Northeast,Marietta,Cobb County,Georgia,United States,30066,33.9854647,-84.53463719999999,true
+ 302 West Church Avenue,Medina,TN,38355,"",302,West Church Avenue,Medina,Gibson County,Tennessee,United States,38355,35.8014363,-88.778847,false
+ 415 E. Washington Street,Muncie,IN,47305,"",415,East Washington Street,Muncie,Delaware County,Indiana,United States,47305,40.1941879,-85.3822654,false
+ 7901 West Isanogle Road,Muncie,IN,47304,"",7901,West Co Road 50 North,Muncie,Delaware County,Indiana,United States,47304,40.1995379,-85.478965,true
+ 503 Union Ave,Belleville,NJ,7109,"",503,Union Avenue,Belleville,Essex County,New Jersey,United States,07109,40.8008597,-74.1547202,true
+ 750 Commercial,"Superior,",NE,68978,"",750,North Commercial Avenue,Superior,Nuckolls County,Nebraska,United States,68978,40.0235464,-98.0700181,true
+ 4708 I-49 N Svc Rd,Opelousas,LA,70570,"",4708,Interstate 49 Frontage Road,Opelousas,St. Landry Parish,Louisiana,United States,70570,30.4922562,-92.07252129999999,true
+ 289 Church Street,Grand Coteau,LA,70541,"",289,Church Street,Grand Coteau,St. Landry Parish,Louisiana,United States,70512,30.4277847,-92.04460189999999,false
+ 224 Main Street,Arnaudville,LA,70512,"",224,Main Street,Arnaudville,St. Landry Parish,Louisiana,United States,70512,30.3978285,-91.9323397,true
+ 108 North Lexington Avenue,Bunkie,LA,71322,"",108,North Lexington Avenue,Bunkie,Avoyelles Parish,Louisiana,United States,71322,30.9551861,-92.18663869999999,false
+ 4615 N University Ave,Carencro,LA,70520,"",4615,North University Avenue,Carencro,Lafayette Parish,Louisiana,United States,70520,30.320992,-92.049898,false
+ 4117 N. University,Carencro,LA,70520,"",4117,North University Avenue,Carencro,Lafayette Parish,Louisiana,United States,70520,30.313378,-92.05000799999999,true
+ 402 N High Street,Mankato,KS,66956,"",402,North High Street,Mankato,Jewell County,Kansas,United States,66956,39.7889504,-98.21130749999999,false
+ 38040 Muddy Neck Road,Ocean View,DE,19970,"",38040,Muddy Neck Road,Ocean View,Sussex County,Delaware,United States,19970,38.531868,-75.088883,false
+ 32013 Long Neck Road,Millsboro,DE,19966,"",32013,Long Neck Road,Millsboro,Sussex County,Delaware,United States,19966,38.636278,-75.192532,false
+ 43 Thatcher Street,Frankford,DE,19945,"",43,Thatcher Street,Frankford,Sussex County,Delaware,United States,19945,38.5200363,-75.227311,false
+ 206 Cedar Street,Providence,KY,42450,"",206,Cedar Street,Providence,Webster County,Kentucky,United States,42450,37.3957441,-87.76466359999999,false
+ 1200 Harper Rd,Beckley,WV,25801,"",1200,Harper Road,Beckley,Raleigh County,West Virginia,United States,25801,37.7771659,-81.2002636,false
+ 59 Cherry Street,Sylva,NC,28779,"",59,Cherry Street,Sylva,Jackson County,North Carolina,United States,28779,35.371681,-83.2112432,true
+ 15522 S. DuPont Hwy,Harrington,DE,19952,"",15522,South Dupont Highway,Harrington,Kent County,Delaware,United States,19952,38.947633,-75.564663,false
+ 302 Pickens Street,Marion,AL,36756,"",302,Pickens Street,Marion,Perry County,Alabama,United States,36756,32.6334027,-87.3179426,true
+ 15522 S. Dupont Hwy,Harrington,DE,19952,"",15522,South Dupont Highway,Harrington,Kent County,Delaware,United States,19952,38.947633,-75.564663,false
+ 310 South Fairfax Boulevard,Ranson,WV,25438,"",310,South Fairfax Boulevard,Ranson,Jefferson County,West Virginia,United States,25438,39.294132,-77.86134,false
+ 1017 West Quincy Street,Hancock,MI,49930,"",1017,Quincy Street,Hancock,Houghton County,Michigan,United States,49930,47.1267627,-88.59826009999999,true
+ 701 Ash Street,Noble,OK,73068,"",701,Ash Street,Noble,Cleveland County,Oklahoma,United States,73068,35.14079,-97.388801,false
+ 212 North Main Street,Elizabethton,TN,37643,"",212,North Main Street,Elizabethton,Carter County,Tennessee,United States,37643,36.3503025,-82.2105547,false
+ 654 Athens Rd.,Princeton,WV,24740,"",654,Athens Road,Princeton,Mercer County,West Virginia,United States,24740,37.3726331,-81.0682016,false
+ 375 Broadway,"Newport,",RI,2840,"",375,Broadway,Newport,Newport County,Rhode Island,United States,02840,41.5006866,-71.30529849999999,true
+ 155 South Ave.,Fanwood,NJ,7023,"",155,South Avenue,Fanwood,Union County,New Jersey,United States,07023,40.6386781,-74.38718709999999,true
+ 955 River Road,Tunica,MS,38676,"",955,River Road,Tunica,Tunica County,Mississippi,United States,38676,34.6901333,-90.3820423,false
+ 334 E. Madison,Houston,MS,38851,"",334,East Madison Street,Houston,Chickasaw County,Mississippi,United States,38851,33.8966985,-88.9977765,true
+ 3926 Willowood Avenue,Springdale,AR,72762,"",3926,Willowood Avenue,Springdale,Washington County,Arkansas,United States,72762,36.1947339,-94.173343,false
+ 305 Lincoln Street,Plain Dealing,LA,71064,"",305,Lincoln Street,Plain Dealing,Bossier Parish,Louisiana,United States,71064,32.8921097,-93.69841989999999,false
+ 1907 Tucker St,Ringgold,LA,71068,"",1907,Tucker Street,Ringgold,Bienville Parish,Louisiana,United States,71068,32.3312925,-93.2840478,false
+ 18680 Highway 9,Arcadia,LA,71001,"",18680,Highway 9,Arcadia,Bienville Parish,Louisiana,United States,71001,32.5723789,-92.9578425,true
+ 422 Pine Street,Cullen,LA,71021,"",422,Pine Street,Springhill,Webster Parish,Louisiana,United States,71075,32.9693535,-93.4514591,true
+ 701 Martin Luther King Dr.,Farmerville,LA,71241,"",701,Martin Luther King Junior Drive,Farmerville,Union Parish,Louisiana,United States,71241,32.7675909,-92.4041958,true
+ 4043 Highway 79,Homer,LA,71040,"",4043,U.S. 79,Homer,Claiborne Parish,Louisiana,United States,71040,32.777759,-93.0714318,true
+ 716 2nd Ave North,Columbus,MS,39701,"",716,2nd Avenue North,Columbus,Lowndes County,Mississippi,United States,39701,33.496424,-88.42501999999999,false
+ 613 Bunch St,Corinth,MS,38834,"",613,Bunch Street,Corinth,Alcorn County,Mississippi,United States,38834,34.93727440000001,-88.51831539999999,false
+ 214 North 6th Ave,Hopewell,VA,23860,"",214,North 6th Avenue,Hopewell,"",Virginia,United States,23860,37.302584,-77.29278959999999,false
+ 610 Washington Street,Maryville,TN,37804,"",610,South Washington Street,Maryville,Blount County,Tennessee,United States,37804,35.7562761,-83.9631218,true
+ 2626 Lewisvillie Clemmons Road,Clemmons,NC,27012,"",2626,Lewisville Clemmons Road,Clemmons,Forsyth County,North Carolina,United States,27012,36.02648,-80.3826519,true
+ 2686 Hwy 167 North,Sheridan,AR,72150,"",2686,U.S. 167,Sheridan,Grant County,Arkansas,United States,72150,34.3439451,-92.3932221,true
+ 2030 Memorial Park Road,Gainesville,GA,30504,"",2030,Memorial Park Road,Gainesville,Hall County,Georgia,United States,30504,34.2698991,-83.8603078,false
+ 989 Riverside,Gainesville,GA,30501,"",989,Riverside Drive,Gainesville,Hall County,Georgia,United States,30501,34.3148994,-83.8279282,true
+ 4121 Falcon Pkwy,Flowery Branch,GA,30542,"",4121,Falcon Parkway,Flowery Branch,Hall County,Georgia,United States,30542,34.2005033,-83.8863848,false
+ 3100 Audubon Drive,Laurel,MS,39440,"",3100,Audubon Drive,Laurel,Jones County,Mississippi,United States,39440,31.7285936,-89.1397494,false
+ 2200 Skyland Blvd East,Tuscaloosa,AL,35407,"",2200,Skyland Boulevard East,Tuscaloosa,Tuscaloosa County,Alabama,United States,35405,33.169548,-87.50962299999999,true
+ 1395 Arnold Lane,Medford,OR,97501,"",1395,Arnold Lane,Medford,Jackson County,Oregon,United States,97501,42.31026,-122.931148,false
+ 127 Carrington Ave,"Woonsocket,",RI,2895,"",127,Carrington Avenue,Woonsocket,Providence County,Rhode Island,United States,02895,42.00107,-71.507372,true
+ 71 Central Street,Manville,RI,2838,"",71,Central Street,Lincoln,Providence County,Rhode Island,United States,02838,41.969136,-71.47380799999999,true
+ 301 N. Maple,Mabel,MN,55954,"",301,North Maple Street,Mabel,Fillmore County,Minnesota,United States,55954,43.5227915,-91.7715334,true
+ 847 Hwy 36,Frenchburg,KY,40322,"",847,Highway 36,Frenchburg,Menifee County,Kentucky,United States,40322,37.9613049,-83.61536559999999,true
+ 2950 Vauxhall Rd,Union,NJ,7088,"",2950,Vauxhall Road,Union,Union County,New Jersey,United States,07088,40.7204555,-74.2897916,true
+ 3925 N. Asbury Avenue,Bethany,OK,73008,"",3925,North Asbury Avenue,Bethany,Oklahoma County,Oklahoma,United States,73008,35.511052,-97.631343,false
+ 501 Dr. Martin Luther King Jr Drive,Jackson,TN,38301,"",501,Doctor Martin Luther King Junior Drive,Jackson,Madison County,Tennessee,United States,38301,35.60901,-88.811185,false
+ 85 Barnhill Street,Lexington,TN,38351,"",85,Barnhill Street,Lexington,Henderson County,Tennessee,United States,38351,35.6506029,-88.39796199999999,false
+ 1231 West Cumberland Road,Bluefield,WV,24701,"",1231,West Cumberland Road,Bluefield,Mercer County,West Virginia,United States,24701,37.2452098,-81.2281576,false
+ 810 Broadway,Valley Falls,KS,66088,"",810,Broadway Street,Valley Falls,Jefferson County,Kansas,United States,66088,39.3464576,-95.4638851,true
+ 1101 W 4th,Holton,KS,66436,"",1101,West 4th Street,Holton,Jackson County,Kansas,United States,66436,39.46270639999999,-95.7513625,true
+ 1000 7th Street,Clarkston,WA,99403,"",1000,7th Street,Clarkston,Asotin County,Washington,United States,99403,46.41084670000001,-117.0469074,false
+ 627 East 9 Mile Road,Hazel Park,MI,48030,"",627,East 9 Mile Road,Hazel Park,Oakland County,Michigan,United States,48030,42.4617384,-83.0992108,false
+ 11777 Liberty Street,Clinton,LA,70722,"",11777,Liberty Street,Clinton,East Feliciana Parish,Louisiana,United States,70722,30.895286,-91.0016303,false
+ 314 E 2nd,Clarksdale,MS,38614,"",314,East 2nd Street,Clarksdale,Coahoma County,Mississippi,United States,38614,34.2028899,-90.5720429,true
+ 14567 S. Dixie Highway,Monroe,MI,48161,"",14567,South Dixie Highway,Monroe,Monroe County,Michigan,United States,48161,41.8818996,-83.4271713,false
+ 2442 North Monroe,Monroe,MI,48162,"",2442,North Monroe Street,Monroe,Monroe County,Michigan,United States,48162,41.9493312,-83.3816641,true
+ 530 Smithfield,"Pawtucket,",RI,2860,"",530,Smithfield Avenue,Pawtucket,Providence County,Rhode Island,United States,02680,41.876698,-71.415256,true
+ 218 W. Third St,Wapato,WA,98951,"",218,West 3rd Street,Wapato,Yakima County,Washington,United States,98951,46.4462988,-120.4222481,false
+ 14 Pleasant St,Georgetown,MA,1833,"",14,Pleasant Street,Georgetown,Essex County,Massachusetts,United States,01833,42.7256236,-70.989885,true
+ 1944 Northampton,Holyoke,MA,1040,"",1944,Northampton Street,Holyoke,Hampden County,Massachusetts,United States,01040,42.1962859,-72.6300853,true
+ 12065 N. Saguaro Blvd,Fountain Hills, AZ,85268,"",12065,North Saguaro Boulevard,Fountain Hills,Maricopa County,Arizona,United States,85268,33.5970609,-111.716247,false
+ 225 Dana Road,Warrior,AL,35180,"",225,Dana Road,Warrior,Jefferson County,Alabama,United States,35180,33.801239,-86.8240919,false
+ 301 East 4th Street,Augusta,KY,41002,"",301,East 4th Street,Augusta,Bracken County,Kentucky,United States,41002,38.7715858,-84.00313009999999,false
+ 114 5th Street,Sandstone,MN,55072,"","",5th Street,Sandstone,Pine County,Minnesota,United States,55072,46.1319433,-92.8636873,true
+ 850 E. Main Street,Anoka,MN,55303,"",850,East Main Street,Anoka,Anoka County,Minnesota,United States,55303,45.1973429,-93.37391,false
+ 318 Union Avenue,Framingham,MA,1702,"",318,Union Avenue,Framingham,Middlesex County,Massachusetts,United States,01702,42.2870103,-71.42345279999999,true
+ 7246 Granby Street,Norfolk,VA,23505,"",7246,Granby Street,Norfolk,"",Virginia,United States,23505,36.9092413,-76.274288,false
+ 5605 Portsmouth Blvd.,Portsmouth,VA,23701,"",5605,Portsmouth Boulevard,Portsmouth,"",Virginia,United States,23701,36.8189369,-76.37960269999999,false
+ 120 W. Berkley Avenue,Norfolk,VA,23523,"",120,West Berkley Avenue,Norfolk,"",Virginia,United States,23523,36.833374,-76.28355599999999,false
+ 109 S. Lincoln,York,NE,68467,"",109,South Lincoln Avenue,York,York County,Nebraska,United States,68467,40.8617005,-97.5926084,true
+ 936 N Main St,"Henderson,",NE,68371,"",936,North Main Street,Henderson,York County,Nebraska,United States,68371,40.7798156,-97.8124802,true
+ 2901 Guilford Street,Huntington, IN,46750,"",2901,Guilford Street,Huntington,Huntington County,Indiana,United States,46750,40.9044918,-85.50814779999999,false
+ 500 W. Pearl,Batesville, IN,47006,"",500,West Pearl Street,Batesville,Ripley County,Indiana,United States,47006,39.3011886,-85.2280727,true
+ 3377 Route 9 North,Old Bridge,NJ,8857,"",3377,Route 9,Old Bridge Township,Middlesex County,New Jersey,United States,08857,40.3883637,-74.3075363,true
+ 1175 S. State Street,Dover,DE,19901,"",1175,South State Street,Dover,Kent County,Delaware,United States,19901,39.143704,-75.522195,false
+ 311 Hope Drive,Winchester,VA,22601,"",311,Hope Drive,Winchester,"",Virginia,United States,22601,39.1573549,-78.18290329999999,false
+ 501 W. Broadway St.,Drumright,OK,74030,"",501,West Broadway Street,Drumright,Creek County,Oklahoma,United States,74030,35.9888328,-96.606527,false
+ 130 West Eighth Street,Bristow,OK,74010,"",130,West 8th Avenue,Bristow,Creek County,Oklahoma,United States,74010,35.834502,-96.393311,true
+ 1930 Austin Road,Owatonna,MN,55060,"",1930,Austin Road,Owatonna,Steele County,Minnesota,United States,55060,44.0643378,-93.2171348,false
+ 514 Third,Kenyon,MN,55946,"",514,3rd Street,Kenyon,Goodhue County,Minnesota,United States,55946,44.271254,-92.987922,true
+ 319 W. Main Street,West Concord,MN,55985,"",319,Main Street,West Concord,Dodge County,Minnesota,United States,55985,44.1514408,-92.901725,true
+ 32 Maple Street,Wilton,NH,3086,"",32,Maple Street,Wilton,Hillsborough County,New Hampshire,United States,03086,42.8435134,-71.7353492,true
+ 307 Main St,Saint Agatha,ME,4772,"",307,Main Street,Saint Agatha,Aroostook County,Maine,United States,04772,47.2434391,-68.3204654,true
+ 363 US Rt 1,Frenchville,ME,4745,"",386,U.S. 1,Frenchville,Aroostook County,Maine,United States,04745,47.35525200000001,-68.322295,true
+ 30895 West Heron River Road,Flat Rock,MI,48134,"",30895,West Huron River Drive,Flat Rock,Wayne County,Michigan,United States,48134,42.1207382,-83.3386779,true
+ 3614 Dixie Highway,Erlanger,KY,41018,"",3614,Dixie Highway,Erlanger,Kenton County,Kentucky,United States,41018,39.0160127,-84.60296559999999,false
+ 917 Main Street,Covington,KY,41011,"",917,Main Street,Covington,Kenton County,Kentucky,United States,41011,39.079429,-84.5176089,false
+ 528 Bound Brook Road,Middlesex,NJ,8846,"",528,Bound Brook Road,Middlesex,Middlesex County,New Jersey,United States,08846,40.5831281,-74.48556730000001,true
+ 304 Shore Road,Somers Point,NJ,8244,"",304,Shore Road,Somers Point,Atlantic County,New Jersey,United States,08244,39.322748,-74.588505,true
+ 27950 AL Hwy 21,Talladega,AL,35160,"",27950,Highway 21,Talladega,Talladega County,Alabama,United States,35160,33.387184,-86.15207269999999,false
+ 851 Kennedy Blvd,Bayonne,NJ,7002,"",851,John F. Kennedy Boulevard,Bayonne,Hudson County,New Jersey,United States,07002,40.6748538,-74.116165,true
+ 829 4th Street,Lake Arthur,LA,70549,"",829,4th Street,Lake Arthur,Jefferson Davis Parish,Louisiana,United States,70549,30.0817961,-92.6765447,false
+ 114 East Shankland Avenue,Jennings,LA,70546,"",114,East Shankland Avenue,Jennings,Jefferson Davis Parish,Louisiana,United States,70546,30.23161109999999,-92.657816,false
+ 100 Worchester Rd,Sterling,MA,1564,"",100,Worcester Road,Sterling,Worcester County,Massachusetts,United States,01564,42.4160512,-71.77516949999999,true
+ 1158 Main Street,Holden,MA,1520,"",1158,Main Street,Holden,Worcester County,Massachusetts,United States,01520,42.3503708,-71.8605627,true
+ 415 E Center Street,Mebane,NC,27302,"",415,East Center Street,Mebane,"",North Carolina,United States,27302,36.0940715,-79.25896039999999,false
+ 851 State Highway 253,Winfield,AL,35594,"",851,Highway 253,Winfield,Marion County,Alabama,United States,35594,33.9386969,-87.8229437,false
+ 4001 E. 9th Ave,Winfield,KS,67156,"",4001,East 9th Avenue,Winfield,Cowley County,Kansas,United States,67156,37.2441766,-96.9484289,false
+ 85 Anthony Street,Baxley,GA,31515,"","",Anthony Street,Baxley,Appling County,Georgia,United States,31513,31.7739822,-82.3449859,true
+ 130 Screven Ave,Waycross,GA,31501,"",130,Screven Avenue,Waycross,Ware County,Georgia,United States,31501,31.2139757,-82.3520272,false
+ 94560 Kamehameha St.,Waipahu,HI,96797,"","",Kamehameha Loop,Honolulu,Honolulu County,Hawaii,United States,96818,21.3665498,-157.9592993,true
+ 20 S Kukui St,Honolulu,HI,96782,"",20,South Kukui Street,Honolulu,Honolulu County,Hawaii,United States,96813,21.313152,-157.858273,true
+ 240 Main Street,Isle,MN,56342,"",240,West Main Street,Isle,Mille Lacs County,Minnesota,United States,56342,46.1380511,-93.46938809999999,true
+ 4412 Main Street,Moss Point,MS,39563,"",4412,Main Street,Moss Point,Jackson County,Mississippi,United States,39563,30.405273,-88.53819,false
+ 1150 Fire Tower Road,Sanford,NC,27330,"",1150,Fire Tower Road,Sanford,Lee County,North Carolina,United States,27330,35.4597574,-79.19023290000001,false
+ 108 Birch Avenue,Upsala,MN,56384,"","",Birch Avenue,Upsala,Morrison County,Minnesota,United States,56384,45.8096247,-94.5720916,true
+ 631 S Main St,Holdingford,MN,56340,"",631,Main Street,Holdingford,Stearns County,Minnesota,United States,56340,45.7305702,-94.4757449,false
+ 300 Railroad Ave,Albany,MN,56307,"",300,Railroad Avenue,Albany,Stearns County,Minnesota,United States,56307,45.6294265,-94.56753529999999,false
+ 5905 Hwy 19,Zachary,LA,70791,"",5905,Highway 19,Zachary,East Baton Rouge Parish,Louisiana,United States,70791,30.6594669,-91.1500896,false
+ 915 W. Broadway Ave,Maryville,TN,37801,"",915,West Broadway Avenue,Maryville,Blount County,Tennessee,United States,37801,35.7480908,-83.9813815,false
+ 304 Main Street,Gatesville,NC,27938,"",304,Main Street,Gatesville,Gates County,North Carolina,United States,27938,36.4057454,-76.75323,false
+ 668 Zion Road,Gretna,VA ,24557,"",668,Zion Road,Gretna,Pittsylvania County,Virginia,United States,24557,36.9262407,-79.3311046,false
+ 50 Hamerc Drive East,Oxford,AL,36203,"",50,Hamric Drive East,Oxford,Calhoun County,Alabama,United States,36203,33.6058934,-85.8372876,true
+ 19 Autumnwood Way,Lewes,DE,19958,"",19,Autumnwood Way,Lewes,Sussex County,Delaware,United States,19958,38.693934,-75.19389199999999,false
+ 407 N. Main Street,Hinesville,GA,31313,"",407,North Main Street,Hinesville,Liberty County,Georgia,United States,31313,31.8529507,-81.5949448,false
+ 41 West Mill Street,Tallapoosa,GA,30176,"",41,West Mill Street,Tallapoosa,Haralson County,Georgia,United States,30176,33.7472498,-85.28945999999999,false
+ 1941 Carter Avenue,Ashland,KY,41101,"",1941,Carter Avenue,Ashland,Boyd County,Kentucky,United States,41101,38.4756505,-82.6358825,false
+ 107 S Lancaster,Hesston,KS,67062,"",107,South Lancaster Avenue,Hesston,Harvey County,Kansas,United States,67062,38.1383056,-97.4331296,true
+ 303 East Main Street,Goessel,KS,67053,"",303,East Main Street,Goessel,Marion County,Kansas,United States,67053,38.2465584,-97.3455306,false
+ 735 Virginia Road,Edenton,NC,27932,"",735,Virginia Road,Edenton,Chowan County,North Carolina,United States,27932,36.0890974,-76.6306268,false
+ 3200 Golansky Blvd,Woodbridge,VA,22192,"",3200,Golansky Boulevard,Woodbridge,Prince William County,Virginia,United States,22192,38.651393,-77.308172,false
+ 600 South Western Avenue,Hartford,SD,57033,"",600,South Western Avenue,Hartford,Minnehaha County,South Dakota,United States,57033,43.6158398,-96.94957289999999,false
+ 180 Sparta Road,North Wilkesboro,NC,28659,"",180,Sparta Road,North Wilkesboro,Wilkes County,North Carolina,United States,28659,36.195739,-81.151403,false
+ 608 St. Philips,Selma,AL,36702,"",608,Saint Phillips Street,Selma,Dallas County,Alabama,United States,36703,32.4146,-87.0161,true
+ 11475 Commercial Ln #C,Laurel,DE,19956,"",11475,Commercial Lane,Allenton,Washington County,Wisconsin,United States,53002,43.4733636,-88.36953100000001,true
+ 26 Franklin St,Brandon,VT,5733,"",26,Franklin Street,Brandon,Rutland County,Vermont,United States,05733,43.796982,-73.083321,true
+ 601 Beaver Street,Saint Edward,NE,68660,"",601,Beaver Street,Saint Edward,Boone County,Nebraska,United States,68660,41.5699358,-97.86187149999999,false
+ 410 S. F Street,Hugo,OK,74743,"",410,South F Street,Hugo,Choctaw County,Oklahoma,United States,74743,34.0073587,-95.5195645,false
+ 908 North Lincoln Avenue,Liberal,KS,67901,"",908,North Lincoln Avenue,Liberal,Seward County,Kansas,United States,67901,37.0480093,-100.9235963,false
+ 1704 N Grand Avenue,Connersville, IN ,47331,"",1704,North Grand Avenue,Connersville,Fayette County,Indiana,United States,47331,39.653668,-85.134519,false
+ 1148 N Broad,Rome,GA,30161,"",1148,North Broad Street,Rome,Floyd County,Georgia,United States,30161,34.26114099999999,-85.1591464,true
+ 2542 Shorter Avenue,Rome,GA,30165,"",2542,Shorter Avenue,Rome,Floyd County,Georgia,United States,30165,34.2722141,-85.2445207,false
+ 6368 East US 24,Monticello,IN,47960,"",6368,Highway 24,Monticello,White County,Indiana,United States,47960,40.7510498,-86.749499,true
+ 200 S. Main,Newkirk,OK,74647,"",200,South Main Street,Newkirk,Kay County,Oklahoma,United States,74647,36.880882,-97.05307599999999,true
+ 1125 Harvey Point Road,Hertford,NC,27944,"",1125,Harvey Point Road,Hertford,Perquimans County,North Carolina,United States,27944,36.170848,-76.45283599999999,false
+ 260 Bank Street,Seymour,CT,6483,"",260,Bank Street,Seymour,New Haven County,Connecticut,United States,06483,41.3978866,-73.0839262,true
+ 5505 Kitsap Way,Bremerton,WA,98312,"",5505,Kitsap Way,Bremerton,Kitsap County,Washington,United States,98312,47.5729572,-122.6905121,false
+ 23477 Hwy 15,Union,MS,39365,"",23477,Highway 15,Union,Newton County,Mississippi,United States,39365,32.5531164,-89.1064569,false
+ 1 Park Place,Sebastopol,MS,39359,"","","",Sebastopol,Scott County,Mississippi,United States,39359,32.5652344,-89.3381105,true
+ 7738 Church Street,Millington,TN,38053,"",7738,Church Street,Millington,Shelby County,Tennessee,United States,38053,35.33737,-89.897532,false
+ 1300 Dr. Martin Luther King Jr. Blvd,Kinston,NC,28501,"",1300,Doctor Martin Luther King Junior Boulevard,Kinston,Lenoir County,North Carolina,United States,28501,35.2743263,-77.56768269999999,false
+ 5725 Littlerock Road SW,Tumwater,WA,98512,"",5725,Littlerock Road Southwest,Tumwater,Thurston County,Washington,United States,98512,46.996835,-122.92338,false
+ 120 Memorial Drive,Paducah,KY,42002,"",120,Memorial Drive,Paducah,McCracken County,Kentucky,United States,42001,37.0577589,-88.65739590000001,true
+ 501 Walnut Street,Arlington,KY,42021,"","",Walnut Street,Arlington,Carlisle County,Kentucky,United States,42021,36.7918019,-89.01241259999999,true
+ West Court Street,Bardwell,KY,42023,"","",West Court Street,Bardwell,Carlisle County,Kentucky,United States,42023,36.8689539,-89.0070389,false
+ 3745 Old US Hwy 45,Paducah,KY,42003,"",3745,Mayfield Road,Paducah,McCracken County,Kentucky,United States,42003,36.9943272,-88.6715777,true
+ 1079 Court Street,Wickliffe,KY,42087,"",1079,Court Street,Wickliffe,Ballard County,Kentucky,United States,42087,36.9626878,-89.0784427,false
+ 1827 Hull Street,Richmond, VA ,23224,"",1827,Hull Street,Richmond,"",Virginia,United States,23224,37.5177235,-77.4495814,false
+ 618 Norway Street,Norway,MI,49870,"",618,Norway Street,Norway,Dickinson County,Michigan,United States,49870,45.7867121,-87.90817799999999,false
+ 101 South Leslie Drive,Garretson,SD,57030,"",101,Leslie Drive,Garretson,Minnehaha County,South Dakota,United States,57030,43.7095547,-96.5011469,true
+ 104 E 4th St,Dell Rapids,SD,57022,"",104,East 4th Street,Dell Rapids,Minnehaha County,South Dakota,United States,57022,43.823632,-96.7168944,false
+ 205 E 4th St,Colton,SD,57018,"",205,East 4th Street,Colton,Minnehaha County,South Dakota,United States,57018,43.7870013,-96.92848459999999,false
+ 180 Saint Olaf Ave,"Baltic,",SD,57003,"","","",Baltic,Minnehaha County,South Dakota,United States,"",43.76136289999999,-96.7403289,true
+ 501 7th Street,Nicollet,MN,56074,"",501,7th Street,Nicollet,Nicollet County,Minnesota,United States,56074,44.2719022,-94.1890055,true
+ 116 Broadway,Hanska,MN,56041,"",116,Broadway Street,Hanska,Brown County,Minnesota,United States,56041,44.1484868,-94.49424409999999,true
+ 709 1st Avenue,Gibbon,MN,55335,"",709,1st Avenue,Gibbon,Sibley County,Minnesota,United States,55335,44.5287535,-94.5264369,true
+ 218 N. Broadway,New Ulm,MN,56073,"",218,North Broadway Stret,New Ulm,Brown County,Minnesota,United States,56073,44.3153605,-94.4625166,true
+ 600 S Broadway,New Ulm,MN,56073,"",600,South Broadway Street,New Ulm,Brown County,Minnesota,United States,56073,44.30607,-94.4548962,true
+ 415 E. Wilson Blvd,Hagerstown,MD,21740,"",415,East Wilson Boulevard,Hagerstown,Washington County,Maryland,United States,21740,39.621794,-77.720455,false
+ 125 N. Main Street,Stafford,KS,67578,"",125,North Main Street,Stafford,Stafford County,Kansas,United States,67578,37.9623788,-98.6004047,false
+ 526 E. 4th Street,Saint John,KS,67576,"",526,East 4th Avenue,Saint John,Stafford County,Kansas,United States,67576,38.0024465,-98.7551019,true
+ 205 N Main Street,Macksville,KS,67557,"",205,North Main Street,Macksville,Stafford County,Kansas,United States,67557,37.9578808,-98.9678032,false
+ 123 Main Street,Minneola,KS,67865,"",123,South Main Street,Minneola,Clark County,Kansas,United States,67865,37.4431436,-100.0138807,true
+ 212 South Main St.,Bucklin,KS,67834,"",212,South Main Street,Bucklin,Ford County,Kansas,United States,67834,37.5477941,-99.6338663,false
+ 237 Rt 7 South,Milton,VT,5468,"",237,U.S. 7,"",Chittenden County,Vermont,United States,05468,44.623406,-73.120609,true
+ 502 S. Union Street,Coffeyville,KS,67337,"",502,South Union Street,Coffeyville,Montgomery County,Kansas,United States,67337,37.0391875,-95.61431859999999,false
+ 218 S. Main St,Clyde,OH,43410,"",218,South Main Street,Clyde,Sandusky County,Ohio,United States,43410,41.3034668,-82.97432549999999,false
+ 418 South Craige Street,Salisbury,NC,28144,"",418,South Craige Street,Salisbury,Rowan County,North Carolina,United States,28144,35.669959,-80.480121,false
+ 15 Park Street,Easthampton,MA,1027,"",15,Park Street,Easthampton,Hampshire County,Massachusetts,United States,01027,42.267939,-72.67464100000001,true
+ 2307 West Kings Hwy,Paragould,AR,72451,"",2307,West Kings Highway,Paragould,Greene County,Arkansas,United States,72450,36.0598297,-90.5164775,true
+ 713 E 9th St,Rector,AR,72461,"",713,East 9th Street,Rector,Clay County,Arkansas,United States,72461,36.259415,-90.28522799999999,false
+ 1809 Caddo,Arkadelphia,AR,71923,"",1809,Caddo Street,Arkadelphia,Clark County,Arkansas,United States,71923,34.121099,-93.0725507,true
+ 7209 Glenwood Ave,Raleigh,NC,27612,"",7209,Glenwood Avenue,Raleigh,Wake County,North Carolina,United States,27612,35.8650989,-78.7164325,false
+ 2501 Hwy 82 West,Crossett,AR,71635,"",5977,Highway 82,Crossett,Ashley County,Arkansas,United States,71635,33.1512705,-92.0965138,true
+ 709 E. North Railway,"Oxford,",NE,68967,"","",North Railway Street,Oxford,Furnas County,Nebraska,United States,68967,40.25034100000001,-99.632868,true
+ 28 Elm Street,Bucksport,ME,4416,"",28,Elm Street,Bucksport,Hancock County,Maine,United States,04416,44.573536,-68.794873,true
+ 102 W. 5th Street,Claremore,OK,74017,"",102,West 5th Street,Claremore,Rogers County,Oklahoma,United States,74017,36.3124944,-95.60934619999999,false
+ 1150 Kikowaena Street,Honolulu,HI,96819,"",1150,Kikowaena Street,Honolulu,Honolulu County,Hawaii,United States,96819,21.344379,-157.893497,false
+ 211 E. Broadway,Sand Springs,OK,74063,"",211,East Broadway Street,Sand Springs,Tulsa County,Oklahoma,United States,74063,36.139983,-96.10696899999999,true
+ 24 Reservoir,Caribou,ME,4736,"",24,Reservoir Street,Caribou,Aroostook County,Maine,United States,04736,46.8656077,-68.00924549999999,true
+ 104 Roosevelt Rd,Valparaiso,IN,46383,"",104,Roosevelt Road,Valparaiso,Porter County,Indiana,United States,46383,41.4692699,-87.0460475,false
+ 128 S. Warren Avenue,Big Rapids,MI,49307,"",128,South Warren Avenue,Big Rapids,Mecosta County,Michigan,United States,49307,43.6972652,-85.48077630000002,false
+ 1000 W 29th Ave,South Sioux City,NE,68776,"",1000,West 29th Street,South Sioux City,Dakota County,Nebraska,United States,68776,42.4617679,-96.4253336,true
+ 218 N East Street,Ponca,NE,68770,"",218,East Street,Ponca,Dixon County,Nebraska,United States,68770,42.5628537,-96.7039834,true
+ 220 E Main St,Molalla,OR,97038,"",220,East Main Street,Molalla,Clackamas County,Oregon,United States,97038,45.146823,-122.575273,false
+ 1907 Front Street,Lynden,WA,98264,"",1907,Front Street,Lynden,Whatcom County,Washington,United States,98264,48.9388748,-122.4801946,false
+ 2039 Main Street,Ferndale,WA,98248,"",2039,Main Street,Ferndale,Whatcom County,Washington,United States,98248,48.84669299999999,-122.592156,false
+ 5700 Northwest Drive,Ferndale,WA,98248,"",5700,Northwest Drive,Ferndale,Whatcom County,Washington,United States,98248,48.8496313,-122.5365649,false
+ 2465 Lakeway Drive,Bellingham,WA,98229,"",2465,Lakeway Drive,Bellingham,Whatcom County,Washington,United States,98229,48.74611549999999,-122.442088,false
+ 171 Maple Ave. West,Vienna,VA,22180,"",171,Maple Avenue West,Vienna,Fairfax County,Virginia,United States,22180,38.900199,-77.26742999999999,false
+ 2252 Highway 84 W.,Frisco City,AL,36445,"",2252,U.S. 84,Frisco City,Monroe County,Alabama,United States,36445,31.4881826,-87.3741635,true
+ 86 W Main Street,Forsyth,GA,31029,"",86,West Main Street,Forsyth,Monroe County,Georgia,United States,31029,33.0339707,-83.9412332,false
+ 922 Main Street,Winsted,CT,6098,"",922,Main Street,Winchester,Litchfield County,Connecticut,United States,06098,41.9309997,-73.079824,true
+ 2911 S. Wilmington Street,Raleigh,NC,27603,"",2911,South Wilmington Street,Raleigh,Wake County,North Carolina,United States,27603,35.7406605,-78.6478615,false
+ 53 Norwich New London Tpke,Uncasville,CT,6382,"",53,New London Turnpike,"",New London County,Connecticut,United States,06382,41.4977889,-72.1021907,true
+ 181 South Caldwell Street,Brevard,NC,28712,"",181,South Caldwell Street,Brevard,Transylvania County,North Carolina,United States,28712,35.2319625,-82.73650839999999,false
+ 10170 Hwy 19 N. Zebulon Road,Zebulon,GA,30295,"","",Zebulon Road,Zebulon,Pike County,Georgia,United States,30295,33.1510799,-84.3126326,true
+ 215 West Kapp St,Dobson,NC,27017,"",215,West Kapp Street,Dobson,Surry County,North Carolina,United States,27017,36.395694,-80.7248709,false
+ 201 Church Street,Claxton,GA,30417,"",201,Church Street,Claxton,Evans County,Georgia,United States,30417,32.1652779,-81.90994479999999,false
+ 202 West Blue Ridge Street,Stuart,VA,24171,"",202,West Blue Ridge Street,Stuart,Patrick County,Virginia,United States,24171,36.6441025,-80.28033400000001,true
+" 206 West Pine St,",Mount Airy,NC,27030,"",206,West Pine Street,Mount Airy,Surry County,North Carolina,United States,27030,36.4990499,-80.60915899999999,false
+ 159 W. 6th Street,Luverne,AL,36049,"",159,6th Street,Luverne,Crenshaw County,Alabama,United States,36049,31.7142373,-86.2660063,true
+ 300 1st Avenue N.W,Winchester,TN,37398,"",300,1st Avenue Northwest,Winchester,Franklin County,Tennessee,United States,37398,35.1851526,-86.11471399999999,false
+ 100 N. Country Club Road,Brevard,NC,28712,"",100,North Country Club Road,Brevard,Transylvania County,North Carolina,United States,28712,35.224985,-82.7379838,false
+ 1115 W. College,Wiggins,MS,39577,"",1115,West College Avenue,Wiggins,Stone County,Mississippi,United States,39577,30.8590341,-89.1508652,true
+ 12 S. 2nd Street,Denton,MD,21629,"",12,South 2nd Street,Denton,Caroline County,Maryland,United States,21629,38.8856949,-75.8330507,false
+ 11910 S Main,Trenton,GA,30752,"",11910,South Main Street,Trenton,Dade County,Georgia,United States,30752,34.8689844,-85.51151109999999,true
+ 310 Alexander Avenue,Donalsonville,GA,39845,"",310,Alexander Avenue,Donalsonville,Seminole County,Georgia,United States,39845,31.0417959,-84.87016870000001,false
+ 142 N. Washington Street,Brazil, IN,47834,"",142,North Washington Street,Brazil,Clay County,Indiana,United States,47834,39.5253136,-87.1269054,false
+ 789 East Central Ave.,Petal,MS,39465,"",789,East Central Avenue,Petal,Forrest County,Mississippi,United States,39465,31.3492571,-89.23528809999999,false
+ 805 Hardy St.,Hattiesburg,MS,39401,"",805,Hardy Street,Hattiesburg,Forrest County,Mississippi,United States,39401,31.3250015,-89.3019891,false
+ 706 Main St.,Purvis,MS,39475,"",706,Main Street,Purvis,Lamar County,Mississippi,United States,39475,31.1492731,-89.4116942,false
+ 303 Maple Leaf Road,Maysville,KY,41056,"",303,East Maple Leaf Road,Maysville,Mason County,Kentucky,United States,41056,38.616756,-83.7806263,true
+ 41 Hackett Ridge Road,Brooksville,KY,41004,"",41,Hackett Ridge Road,Brooksville,Bracken County,Kentucky,United States,41004,38.6757597,-84.04553510000001,false
+ 305 Elizabeth St.,Augusta,KY,41002,"",305,Elizabeth Street,Augusta,Bracken County,Kentucky,United States,41002,38.7723607,-84.00554799999999,false
+ 700 N. Second,Cabot,AR,72023,"",700,North 2nd Street,Cabot,Lonoke County,Arkansas,United States,72023,34.9789967,-92.01260669999999,true
+ 206 W. Center Street,Fayetteville,AR,72701,"",206,West Center Street,Fayetteville,Washington County,Arkansas,United States,72701,36.06298,-94.16236400000001,false
+ 301 S. Wayne Street,Milledgeville,GA,31061,"",301,South Wayne Street,Milledgeville,Baldwin County,Georgia,United States,31061,33.078,-83.226522,false
+ 1591 Alps Road,Wayne,NJ,7470,"",1591,Alps Road,Wayne,Passaic County,New Jersey,United States,07470,40.9605927,-74.2473861,true
+ 1504 N. JP Wright Loop Road,Jacksonville,AR,72076,"",1504,North J P Wright Loop Road,Jacksonville,Pulaski County,Arkansas,United States,72076,34.8822108,-92.0941491,false
+ 525 45th Street,Union City,NJ,7087,"",525,45th Street,Union City,Hudson County,New Jersey,United States,07087,40.7798528,-74.02446549999999,true
+ 625 Gilbert Ferry Road,Attalla,AL,35954,"",625,Gilbert Ferry Road Southeast,Attalla,Etowah County,Alabama,United States,35954,33.9961718,-86.1015362,true
+ 320 S. Glendale Drive,Rocky Mount,NC,27801,"",320,South Glendale Drive,Rocky Mount,Edgecombe County,North Carolina,United States,27801,35.9248957,-77.76946170000001,false
+ 269 Church Street,Reedsville,WV,26547,"","",Church Street,Reedsville,Preston County,West Virginia,United States,26547,39.5099724,-79.80037829999999,true
+ 429 N. Jefferson Street,Lewisburg,WV,24901,"",429,North Jefferson Street,Lewisburg,Greenbrier County,West Virginia,United States,24901,37.8051353,-80.4411583,false
+ 31 Main,Netcong,NJ,7857,"",31,Main Street,Netcong,Morris County,New Jersey,United States,07857,40.899643,-74.70693000000001,true
+ 150 Williamsburg Parkway,Jacksonville,NC,28546,"",150,Williamsburg Parkway,Jacksonville,Onslow County,North Carolina,United States,28546,34.798753,-77.43336099999999,false
+ 325 Demaree Drive,Madison,IN,47250,"",325,Demaree Drive,Madison,Jefferson County,Indiana,United States,47250,38.7790471,-85.38297200000001,false
+ 218 East Main Street,Marshville,NC,28103,"",218,East Main Street,Marshville,Union County,North Carolina,United States,28103,34.9870955,-80.3662634,false
+ 301 W. Washington Street,Princeton,KY,42445,"",301,West Washington Street,Princeton,Caldwell County,Kentucky,United States,42445,37.1087886,-87.8851219,false
+ 76 Park Street,Montclair,NJ,7042,"",76,Park Street,Montclair,Essex County,New Jersey,United States,07042,40.8188676,-74.2159259,true
+ 348 Closter Dock Road,Closter,NJ,7624,"",348,Closter Dock Road,Closter,Bergen County,New Jersey,United States,07624,40.9689485,-73.96032740000001,true
+ 2001 Oakland Avenue,Johnson City,TN,37601,"",2001,East Oakland Avenue,Johnson City,Washington County,Tennessee,United States,37601,36.3514474,-82.36069850000001,true
+ 79 Bridge Street,Wayne,WV,25570,"",79,Bridge Street,Wayne,Wayne County,West Virginia,United States,25570,38.215454,-82.449654,false
+ 5801 U.S. Highway 19 North,Jane Lew,WV,26378,"",5801,US Highway 19 North,Jane Lew,Lewis County,West Virginia,United States,26378,39.105174,-80.408587,true
+ 45 N Main,Ipswich,MA,1938,"",45,North Main Street,Ipswich,Essex County,Massachusetts,United States,01938,42.6825857,-70.83570619999999,true
+ 122 Mckay Street,Laurinburg,NC,28353,"",122,McKay Street,Laurinburg,Scotland County,North Carolina,United States,28352,34.775601,-79.4611089,true
+ 304 Merrimon Ave,Asheville,NC,28814,"",304,Merrimon Avenue,Asheville,Buncombe County,North Carolina,United States,28801,35.609653,-82.554934,true
+ 408 West 4th. Ave,Red Springs,NC,28377,"",408,West 4th Avenue,Red Springs,Robeson County,North Carolina,United States,28377,34.8130108,-79.1887946,false
+ 5900 N Hwy 27,Science Hill,KY,42553,"",5900,North US Highway 27,Science Hill,Pulaski County,Kentucky,United States,42553,37.1758651,-84.62361399999999,true
+ 678 Main Street,Harwich,MA,2645,"",678,Main Street,Harwich,Barnstable County,Massachusetts,United States,02645,41.686494,-70.077829,true
+ 1131 Main St.,Leicester,MA,1524,"",1131,Main Street,Leicester,Worcester County,Massachusetts,United States,01524,42.2458737,-71.9116438,true
+ 825 N. Main Street,Tuscumbia,AL,35674,"",825,North Main Street,Tuscumbia,Colbert County,Alabama,United States,35674,34.7436678,-87.7028574,false
+ 12081 Highway 20,Florence,AL,35633,"",12081,Alabama 20,Florence,Lauderdale County,Alabama,United States,35633,34.9231294,-87.8393729,true
+ 10865 Highway 72 West,Cherokee,AL,35616,"",72,Highway 2,Cherokee,Colbert County,Alabama,United States,35616,34.7160249,-87.6946669,true
+ 188 South Highway 24,Rupert,ID,83350,"",188,Highway 24,Rupert,Minidoka County,Idaho,United States,83350,42.6131101,-113.6755729,true
+ 321 E. Main St,Burley,ID,83318,"",321,East Main Street,Burley,Cassia County,Idaho,United States,83318,42.5378479,-113.789703,false
+ 6500 Iron Bridge Road,Richmond, VA ,23234,"",6500,Iron Bridge Road,Richmond,Chesterfield County,Virginia,United States,23234,37.4276373,-77.4961303,false
+ 449 Wyatt Avenue,Kevil,KY,42053,"",449,Wyatt Avenue,Kevil,Ballard County,Kentucky,United States,42053,37.0855528,-88.88548569999999,false
+ 101 N. Denton,New Albany,MS,38652,"",101,North Denton Road,New Albany,Union County,Mississippi,United States,38652,34.5039604,-89.0280726,true
+ 711 Hwy 82 E,Greenville,MS,38701,"",711,Highway 82 East,Greenville,Washington County,Mississippi,United States,38701,33.399119,-91.04168,false
+ 212 Hayden,Belzoni,MS,39038,"",212,Hayden Alley,Belzoni,Humphreys County,Mississippi,United States,39038,33.1779845,-90.4883298,true
+ 1144-C Main Street,Shelbyville,KY,40066,"",1144,Main Street,Shelbyville,Shelby County,Kentucky,United States,40065,38.211563,-85.227964,true
+ 4850 James Hannah Drive,South Shore,KY,41175,"","",James E Hannah Drive,South Shore,Greenup County,Kentucky,United States,41175,38.7190509,-82.9614594,true
+ 3501 S 11 Ave,Evans,CO,80620,"",3501,11th Avenue,Evans,Weld County,Colorado,United States,80620,40.3803634,-104.6972405,true
+ 233 Broadview Ave,Warrenton,VA,20186,"",233,Broadview Avenue,Warrenton,Fauquier County,Virginia,United States,20186,38.723242,-77.80458999999999,false
+ 1040 Main St,North Bend,NE,68649,"",1040,North Main Street,North Bend,Dodge County,Nebraska,United States,68649,41.4661909,-96.7802598,true
+ 342 N. Coleman Street,Swainsboro,GA,30401,"",342,North Coleman Street,Swainsboro,Emanuel County,Georgia,United States,30401,32.6038935,-82.336958,false
+ 1901 2nd Avenue NW,Cullman,AL,35055,"",1901,2nd Avenue Northwest,Cullman,Cullman County,Alabama,United States,35055,34.20383940000001,-86.8596195,false
+ 55 S. Alexander Street,Toccoa,GA,30577,"",55,South Alexander Street,Toccoa,Stephens County,Georgia,United States,30577,34.5779867,-83.33151199999999,true
+ 334 North Main Street,Rushville,IN,46173,"",334,North Main Street,Rushville,Rush County,Indiana,United States,46173,39.610264,-85.44463999999999,false
+ 7040 Lapalco Boulevard,Marrero,LA,70072,"",7040,Lapalco Boulevard,Marrero,Jefferson Parish,Louisiana,United States,70072,29.884161,-90.12615140000001,false
+ 2100 Westbank Expressway,Harvey,LA,70058,"",2100,Westbank Expressway,Harvey,Jefferson Parish,Louisiana,United States,70058,29.9003046,-90.0704331,false
+ 251 Oak Street,Whiteville,TN,38075,"",251,Oak Street,Whiteville,Hardeman County,Tennessee,United States,38075,35.331353,-89.152389,false
+ 115 E. Cole,Moundridge,KS,67107,"",115,Cole Street,Moundridge,McPherson County,Kansas,United States,67107,38.20272,-97.5181379,true
+ 520 Main Street,Platte,SD,57369,"",520,Main Street,Platte,Charles Mix County,South Dakota,United States,57369,43.38593119999999,-98.84480540000001,false
+ 454 Cranbury Rd,East Brunswick,NJ,8816,"",454,Cranbury Road,East Brunswick,Middlesex County,New Jersey,United States,08816,40.4268548,-74.4043536,true
+ 15506 Skyway Ave,Casa Grande,AZ,85122,"",15506,West Skyway Avenue,Casa Grande,Pinal County,Arizona,United States,85193,32.8355353,-111.7381314,true
+ 1551 Dalles Military Road,Walla Walla, WA,99362,"",1551,Dalles Military Road,Walla Walla,Walla Walla County,Washington,United States,99362,46.0442464,-118.3614246,false
+ 4100 Steilacoom Boulevard SW,Lakewood,WA,98499,"",4100,Steilacoom Boulevard Southwest,Lakewood,Pierce County,Washington,United States,98499,47.176963,-122.4937346,false
+ 3521 7th Street,Lewiston,ID,83501,"",3521,7th Street,Lewiston,Nez Perce County,Idaho,United States,83501,46.373852,-116.993779,false
+ 513 Number 3 Murphy Hwy.,Blairsville,GA,30514,"",513,Murphy Highway,Blairsville,Union County,Georgia,United States,30512,34.8823941,-83.9841999,true
+ 428 N. Old Pacific Hwy,Myrtle Creek,OR,97457,"",428,North Old Pacific Highway,Myrtle Creek,Douglas County,Oregon,United States,97457,42.992638,-123.313691,false
+ 13318 Occoquan Road,Woodbridge,VA,22191,"",13318,Occoquan Road,Woodbridge,Prince William County,Virginia,United States,22191,38.6621851,-77.2530787,false
+ 4th Ave & Venus Street,Gilbert,WV,25621,"","",4th Avenue,"",Ward County,North Dakota,United States,"",48.2398113,-101.0577969,false
+ 200 Robinson Road,Peachtree City,GA,30269,"",200,Robinson Road,Peachtree City,Fayette County,Georgia,United States,30269,33.4150609,-84.5582467,false
+ 409 W. Main St,Owosso,MI,48867,"",409,West Main Street,Owosso,Shiawassee County,Michigan,United States,48867,42.9972587,-84.1755081,false
+ 9110 N. Garnett Road,Owasso,OK,74055,"",9110,North Garnett Road,Owasso,Tulsa County,Oklahoma,United States,74055,36.2845622,-95.8488057,false
+ 212 Ark Road,Mount Laurel,NJ,8054,"",212,Ark Road,Mount Laurel,Burlington County,New Jersey,United States,08054,39.9663796,-74.87230029999999,true
+ 303 N. 2nd Street,Hugo,OK,74743,"",303,Crockett Street,Hugo,Choctaw County,Oklahoma,United States,74743,34.0118496,-95.5115748,false
+ 208 W. Main Street,Antlers,OK,74523,"",208,West Main Street,Antlers,Pushmataha County,Oklahoma,United States,74523,34.2310101,-95.6222489,false
+ 122 N. Cumberland Avenue,Harlan,KY,40831,"",122,North Cumberland Avenue,Harlan,Harlan County,Kentucky,United States,40831,36.8473642,-83.3236591,false
+ 835 York St,Newport,KY,41071,"",835,York Street,Newport,Campbell County,Kentucky,United States,41071,39.088003,-84.491761,false
+ 427 South Ft. Thomas Ave,Fort Thomas,KY,41075,"",427,South Fort Thomas Avenue,Fort Thomas,Campbell County,Kentucky,United States,41075,39.0729857,-84.4473094,false
+ 314 W First Ave.,Kennewick,WA,99336,"",314,West 1st Avenue,Kennewick,Benton County,Washington,United States,99336,46.207956,-119.1224851,false
+ 1401 South Union,Kennewick,WA,99338,"",1401,South Union Street,Kennewick,Benton County,Washington,United States,99338,46.1980759,-119.17651,true
+ 1021 S. Lapeer Road,Lapeer,MI,48446,"",1021,South Lapeer Road,Lapeer,Lapeer County,Michigan,United States,48446,43.0352806,-83.3229082,false
+ 225 North Main Street,Imlay City,MI,48444,"",225,North Main Street,Imlay City,Lapeer County,Michigan,United States,48444,43.0260105,-83.0746139,false
+ 45 Main Street,Millbury,MA,1527,"",45,Main Street,Millbury,Worcester County,Massachusetts,United States,01527,42.194035,-71.76204059999999,true
+ 2308 Sterlington Rd,Monroe,LA,71203,"",2308,Sterlington Road,Monroe,Ouachita Parish,Louisiana,United States,71203,32.542753,-92.07711929999999,false
+ 300 McMillan Road,West Monroe,LA,71291,"",300,McMillan Road,West Monroe,Ouachita Parish,Louisiana,United States,71291,32.5155198,-92.1516135,false
+ 3950 Front ST,Winnsboro,LA,71295,"",3950,Front Street,Winnsboro,Franklin Parish,Louisiana,United States,71295,32.160763,-91.71808759999999,false
+ 507 Foster St,Rayville,LA,71269,"",507,Foster Street,Rayville,Richland Parish,Louisiana,United States,71269,32.4695785,-91.7513051,false
+ 537 S. Olden,Trenton,NJ,8629,"",537,South Olden Avenue,Trenton,Mercer County,New Jersey,United States,08629,40.218598,-74.732058,true
+ 669 Main Street,Follansbee,WV,26037,"",669,Main Street,Follansbee,Brooke County,West Virginia,United States,26037,40.3242916,-80.5953743,false
+ 2 Brown Street,West Rutland,VT,5777,"",2,Brown Street,Rutland,Rutland County,Vermont,United States,05701,43.6032286,-72.98260309999999,true
+ 210 Main Street,Clintwood,VA,24228,"",210,Main Street,Clintwood,Dickenson County,Virginia,United States,24228,37.1491842,-82.4573526,false
+ 120 West Main Street,Radford,VA ,24141,"",120,West Main Street,Radford,"",Virginia,United States,24141,37.1350641,-80.5729861,false
+ 1621 Jefferson Davis Highway,Fredericksburg,VA,22401,"",1621,Jefferson Davis Highway,Fredericksburg,"",Virginia,United States,22401,38.2969724,-77.4843175,false
+ 725 Hebron Avenue,Glastonbury,CT,6033,"",725,Hebron Avenue,Glastonbury,Hartford County,Connecticut,United States,06033,41.7158334,-72.5858264,true
+ 2112 Arendell Street,Morehead City,NC,28557,"",2112,Arendell Street,Morehead City,Carteret County,North Carolina,United States,28557,34.7231758,-76.7323621,false
+ 509 3rd ave,Wilmot,SD,57279,"",509,3rd Avenue,Wilmot,Roberts County,South Dakota,United States,57279,45.4107662,-96.8593219,true
+ 1003 E. 4th Avenue,Milbank,SD,57252,"",1003,East 4th Avenue,Milbank,Grant County,South Dakota,United States,57252,45.2208376,-96.62352659999999,false
+ 401 N.W. Second St,Ortonville,MN,56278,"",401,2nd Street Northwest,Ortonville,Big Stone County,Minnesota,United States,56278,45.30813980000001,-96.4487564,true
+ 102 Studdart Avenue,Graceville,MN,56240,"","",Studdart Avenue,Graceville,Big Stone County,Minnesota,United States,56240,45.5679843,-96.4373111,true
+ Hwy 75 North,Clinton,MN,56225,"","",Highway 75,Clinton,Big Stone County,Minnesota,United States,56225,45.4587898,-96.43377489999999,true
+ 229 S. Main Street,Jamestown,TN,38556,"",229,South Main Street,Jamestown,Fentress County,Tennessee,United States,38556,36.4264944,-84.9321868,false
+ 142 Dunellen Avenue,Dunellen,NJ,8812,"",142,Dunellen Avenue,Dunellen,Middlesex County,New Jersey,United States,08812,40.5959106,-74.4612564,true
+ 708 Tennessee Street,Paducah,KY,42003,"",708,Tennessee Street,Paducah,McCracken County,Kentucky,United States,42003,37.0774177,-88.5974602,false
+ 7450 Raleigh-Millington Road,Millington,TN,38053,"",7450,Raleigh Millington Road,Millington,Shelby County,Tennessee,United States,38053,35.3283381,-89.8993055,false
+ 235 Main Street North,Southbury,CT,6488,"",235,Main Street North,Southbury,New Haven County,Connecticut,United States,06488,41.4829918,-73.2134604,true
+ 207 Central Ave,Martin,TN,38237,"",207,Central Street,Martin,Weakley County,Tennessee,United States,38237,36.33831370000001,-88.8510051,true
+ 85 Federal St.,Salem,MA,1970,"",85,Federal Street,Salem,Essex County,Massachusetts,United States,01970,42.5224503,-70.89949190000002,true
+ 508 Frisco St,Marked Tree,AR,72365,"",508,Frisco Street,Marked Tree,Poinsett County,Arkansas,United States,72365,35.52947899999999,-90.41695209999999,false
+ 200 Miles,Lepanto,AR,72354,"",200,Miles Street,Lepanto,Poinsett County,Arkansas,United States,72354,35.609877,-90.33178799999999,true
+ 1102 West Broad Street,Falls Church,VA ,22046,"",1102,West Broad Street,Falls Church,"",Virginia,United States,22046,38.8928269,-77.18644350000001,false
+ 4510 Wilson Blvd,Arlington,VA,22203,"",4510,Wilson Boulevard,Arlington,Arlington County,Virginia,United States,22203,38.8791753,-77.1156567,false
+ 480 W. 7th St,Junction City,OR,97448,"",480,West 7th Avenue,Junction City,Lane County,Oregon,United States,97448,44.2201707,-123.2055008,true
+ 703 S. Harrison,Shelbyville,IN,46176,"",703,South Harrison Street,Shelbyville,Shelby County,Indiana,United States,46176,39.51872460000001,-85.7773455,true
+ 1503 Tebeau Street,Waycross,GA,31501,"",1503,Tebeau Street,Waycross,Ware County,Georgia,United States,31501,31.2238131,-82.3526677,false
+ 3831 N. Valdosta Road,Valdosta,GA,31602,"",3831,North Valdosta Road,Valdosta,Lowndes County,Georgia,United States,31602,30.8889119,-83.31678579999999,false
+ 402 W. Main Street,Lakeland,GA,31635,"",402,West Main Street,Lakeland,Lanier County,Georgia,United States,31635,31.042104,-83.07155,false
+ 212 E Broadway,Livermore,KY,42352,"",212,East Broadway,Livermore,McLean County,Kentucky,United States,42352,37.4940473,-87.1290993,false
+ 300 Main Street,Calhoun,KY,42327,"",300,Main Street,Calhoun,McLean County,Kentucky,United States,42327,37.5385299,-87.2579969,false
+ 708 Main St,Scotland Neck,NC,27874,"",708,Main Street,Scotland Neck,Halifax County,North Carolina,United States,27874,36.1256725,-77.4233402,false
+ 210 W. Main St.,Emmitsburg,MD,21727,"",210,West Main Street,Emmitsburg,Frederick County,Maryland,United States,21727,39.705504,-77.32906299999999,false
+ 91 Willis St.,Westminster,MD,21157,"",91,Willis Street,Westminster,Carroll County,Maryland,United States,21157,39.5747832,-76.991749,false
+ 1136 E. Baltimore St.,Taneytown,MD,21787,"","",East Baltimore Street,Taneytown,Carroll County,Maryland,United States,21787,39.6534544,-77.1661455,true
+ 600 Main Street,Sistersville,WV,26175,"",600,Main Street,Sistersville,Tyler County,West Virginia,United States,26175,39.565346,-80.99545049999999,false
+ 713 E. Bellville St,Marion,KY,42064,"",713,East Belleville Street,Marion,Crittenden County,Kentucky,United States,42064,37.3322483,-88.068913,true
+ 79 Old Granger Circle,Woodbine,GA,31569,"",79,Old Granger Circle,Woodbine,Camden County,Georgia,United States,31569,30.932562,-81.717855,false
+ 1502 N. Lebanon Street,Lebanon,IN,46052,"",1502,North Lebanon Street,Lebanon,Boone County,Indiana,United States,46052,40.0595216,-86.4718068,false
+ 3729 25th,Columbus,IN,47203,"",3729,25th Street,Columbus,Bartholomew County,Indiana,United States,47203,39.2229594,-85.87918789999999,true
+ 514 Tipton,Kosciusko,MS,39090,"",514,Tipton Street,Kosciusko,Attala County,Mississippi,United States,39090,33.0498549,-89.5888897,true
+ 501 West Main Street,Carthage,MS,39051,"",501,West Main Street,Carthage,Leake County,Mississippi,United States,39051,32.7366316,-89.53698360000001,true
+ 94105 Rink Creek Lane,Coquille,OR,97423,"",94105,Rink Creek Lane,Coquille,Coos County,Oregon,United States,97423,43.1637154,-124.1552025,false
+ 2645 Woodland Dr,Coos Bay,OR,97420,"",2645,Woodland Drive,Coos Bay,Coos County,Oregon,United States,97420,43.3863824,-124.2391332,true
+ Rt #1,Mystic,CT,6355,"","","",Reutlingen,Tübingen,Baden-Württemberg,Germany,"",48.50693889999999,9.2038043,false
+ 2510 S Gloster Street,Tupelo,MS,38801,"",2510,South Gloster Street,Tupelo,Lee County,Mississippi,United States,38801,34.2077643,-88.7203353,false
+ 70 S. Main Street,Ashland,MS,38603,"",70,South Main Street,Ashland,Benton County,Mississippi,United States,38603,34.8331979,-89.17625609999999,true
+ 798 Western,Lynn,MA,1905,"",798,Western Avenue,Lynn,Essex County,Massachusetts,United States,01905,42.4601286,-70.96817419999999,true
+ 110 W. Oak Street,Shelley,ID,83274,"",110,West Oak Street,Shelley,Bingham County,Idaho,United States,83274,43.3845897,-112.1238757,false
+ 415 12th Avenue South,Nampa,ID,83651,"",415,12th Avenue Road,Nampa,Canyon County,Idaho,United States,83651,43.576226,-116.563634,true
+ 315 Main Street,Graniteville,SC,29829,"",315,Main Street,Graniteville,Aiken County,South Carolina,United States,29829,33.5568894,-81.8108208,false
+ 1111 Boston Neck Rd,Narragansett,RI,2882,"",1111,Boston Neck Road,Narragansett,Washington County,Rhode Island,United States,02882,41.486584,-71.4364959,true
+ 1278 Park Avenue,Cranston,RI,2910,"",1278,Park Avenue,Cranston,Providence County,Rhode Island,United States,02910,41.7843919,-71.454317,true
+ 11089 James Madison Pkwy,King George, VA,22485,"",11089,James Madison Parkway,King George,King George County,Virginia,United States,22485,38.2605311,-77.1432883,false
+ 131 3rd.,Colonial Beach, VA,22443,"",131,3rd Street,Colonial Beach,Westmoreland County,Virginia,United States,22443,38.2597004,-76.97105909999999,true
+ 1208 W. Sunset Street,Nashville,AR,71852,"",1208,West Sunset Street,Nashville,Howard County,Arkansas,United States,71852,33.950455,-93.860587,false
+ 208 N. Main Street,Huntingburg,IN,47542,"",208,North Main Street,Huntingburg,Dubois County,Indiana,United States,47542,38.2934234,-86.9557475,false
+ 759 Hwy 51,Madison,MS,39130,"",759,Highway 51,Madison,Madison County,Mississippi,United States,39110,32.4446917,-90.1209418,true
+ 716 West North Street,Raleigh,NC,27603,"",716,West North Street,Raleigh,Wake County,North Carolina,United States,27603,35.7852347,-78.65008019999999,false
+ 3601 Whitehurst Road,Greensboro,NC,27410,"",3601,Whitehurst Road,Greensboro,Guilford County,North Carolina,United States,27410,36.119257,-79.854737,false
+ 5400 Monroe Road,Charlotte,NC,28212,"",5400,Monroe Road,Charlotte,Mecklenburg County,North Carolina,United States,28212,35.1852666,-80.7721332,false
+ 444 Farmington Avenue,New Britain,CT,6053,"",444,Farmington Avenue,New Britain,Hartford County,Connecticut,United States,06053,41.6897697,-72.7903898,true
+ 1110 Great Neck Road,Virginia Beach,VA,23454,"",1110,North Great Neck Road,Virginia Beach,"",Virginia,United States,23454,36.866602,-76.040993,true
+ 7482 Lee Hwy,Falls Church,VA ,22042,"",7482,Lee Highway,Falls Church,Fairfax County,Virginia,United States,22042,38.8765402,-77.2002238,false
+ 615 South State Street,Clarksdale,MS,38614,"",615,South State Street,Clarksdale,Coahoma County,Mississippi,United States,38614,34.1894835,-90.5785219,false
+ 240 N. Main Street,Naugatuck,CT,6770,"",240,North Main Street,Naugatuck,New Haven County,Connecticut,United States,06770,41.4973654,-73.049893,true
+ 66 Main Street,High Bridge,NJ,8829,"",66,Main Street,High Bridge,Hunterdon County,New Jersey,United States,08829,40.66893700000001,-74.895285,true
+ 4639 West Main Street,Erin,TN,37061,"",4639,West Main Street,Erin,Houston County,Tennessee,United States,37061,36.318368,-87.69546199999999,false
+ 403 Ridge Rd,Lyndhurst,NJ,7071,"",403,Ridge Road,Lyndhurst,Bergen County,New Jersey,United States,07071,40.8067532,-74.12024559999999,true
+ 231 N. Military Avenue,Lawrenceburg,TN,38464,"",231,North Military Street,Lawrenceburg,Lawrence County,Tennessee,United States,38464,35.2434073,-87.3343642,false
+ 2409 Center Street,Catlettsburg,KY,41129,"",2409,Center Street,Catlettsburg,Boyd County,Kentucky,United States,41129,38.4190307,-82.5981024,false
+ 110 E. Poston Road,Martinsville,IN,46151,"",110,East Poston Road,Martinsville,Morgan County,Indiana,United States,46151,39.41414109999999,-86.4273647,false
+ 39 South St,Manasquan,NJ,8736,"",39,South Street,Manasquan,Monmouth County,New Jersey,United States,08736,40.1233333,-74.0531615,true
+ 400 East Main Street,Gas City,IN,46933,"",400,East Main Street,Gas City,Grant County,Indiana,United States,46933,40.487614,-85.60871399999999,false
+ 1341 North Baldwin Avenue,Marion,IN,46952,"",1341,North Baldwin Avenue,Marion,Grant County,Indiana,United States,46952,40.576891,-85.672641,false
+ 30200 Five Mile,Livonia,MI,48154,"",30200,5 Mile Road,Livonia,Wayne County,Michigan,United States,48154,42.3984321,-83.3426698,true
+ 1124 S Fulton Street,Port Clinton,OH,43452,"",1124,Fulton Street,Port Clinton,Ottawa County,Ohio,United States,43452,41.5005803,-82.9342954,true
+ 918 7th Street,Clay Center,KS,67432,"",918,7th Street,Clay Center,Clay County,Kansas,United States,67432,39.3784488,-97.12263709999999,false
+ 4650 South Laburnum Ave,Richmond,VA,23231,"",4650,South Laburnum Avenue,Richmond,Henrico County,Virginia,United States,23231,37.5251577,-77.3549671,false
+ 412 S. Washington,Ashland,VA,23005,"",412,South Washington Highway,Ashland,Hanover County,Virginia,United States,23005,37.7508818,-77.4720573,true
+ 3785 Strawberry Plains Road,Williamsburg,VA,23188,"",3785,Strawberry Plains Road,Williamsburg,James City County,Virginia,United States,23188,37.267036,-76.7415261,false
+ 709 Central Ave,Walhalla,ND,58282,"",709,Central Avenue,Walhalla,Pembina County,North Dakota,United States,58282,48.9202819,-97.9177992,false
+ 401 Burlington Street,"Holdrege,",NE,68949,"",401,Burlington Street,Holdrege,Phelps County,Nebraska,United States,68949,40.4382988,-99.3804715,false
+ 4520 North Crossover,Fayetteville,AR,72703,"",4520,North Crossover Road,Fayetteville,Washington County,Arkansas,United States,72703,36.1318111,-94.1178936,true
+ 202 Eighth Avenue Northeast,Brainerd,MN,56401,"",202,8th Avenue Northeast,Brainerd,Crow Wing County,Minnesota,United States,56401,46.361984,-94.176276,false
+ 205 Highland Avenue,Vine Grove,KY,40175,"",205,Highland Avenue,Vine Grove,Hardin County,Kentucky,United States,40175,37.8118142,-85.9769587,false
+ 2072 South Dixie Boulevard,Radcliff,KY,40160,"",2072,South Dixie Boulevard,Radcliff,Hardin County,Kentucky,United States,40160,37.8143203,-85.92168029999999,false
+ 7 Clinic Drive,Martin,KY,41649,"",7,Clinic Drive,Martin,Floyd County,Kentucky,United States,41649,37.5673947,-82.758996,false
+ 125 Parks Branch Road,Hindman,KY,41822,"","",Owens Branch Road,Hindman,Knott County,Kentucky,United States,41822,37.3529282,-82.9755183,true
+ 1004 Cloquet Avenue,Cloquet,MN,55720,"",1004,Cloquet Avenue,Cloquet,Carlton County,Minnesota,United States,55720,46.7213661,-92.4532667,false
+ 1111 Main Street East,Minnewaukan,ND,58351,"","",Main Street East,Minnewaukan,Benson County,North Dakota,United States,58351,48.07158889999999,-99.25009899999999,true
+ 214 Central Ave,Maddock,ND,58348,"",214,Central Avenue,Maddock,Benson County,North Dakota,United States,58348,47.9608154,-99.5305789,false
+ 115 Main Street West,Leeds,ND,58346,"",115,West Main Street,Leeds,Benson County,North Dakota,United States,58346,48.2899093,-99.44131270000001,true
+ 135 N. Center Street,Gaylord,MI,49735,"",135,North Center Avenue,Gaylord,Otsego County,Michigan,United States,49735,45.0292713,-84.6739259,true
+ 3659 Hwy 171 N,Fayette,AL,35555,"",3659,Highway 171,Fayette,Fayette County,Alabama,United States,35555,33.6469319,-87.83814939999999,true
+ 1021 E. Washington Street,Rockingham,NC,28379,"",1021,East Washington Street,Rockingham,Richmond County,North Carolina,United States,28379,34.941401,-79.7604209,false
+ 302 N. Bridgers Street,Hamlet,NC,28345,"",302,Bridges Street,Hamlet,Richmond County,North Carolina,United States,28345,34.8813945,-79.7006499,true
+ 120 E Mason St,Owosso,MI,48867,"",120,East Mason Street,Owosso,Shiawassee County,Michigan,United States,48867,42.9992279,-84.16958939999999,false
+ 111 South Halvorson,Redwood Falls,MN,56283,"",111,South Halvorson Street,Redwood Falls,Redwood County,Minnesota,United States,56283,44.5412703,-95.1130024,true
+ 75 Somerville Ave S,Morgan,MN,56266,"",75,South Somerville Street,Morgan,Redwood County,Minnesota,United States,56266,44.412241,-94.926704,true
+ 405 Elrod Avenue,Coos Bay,OR,97420,"",405,Elrod Avenue,Coos Bay,Coos County,Oregon,United States,97420,43.3642864,-124.216169,false
+ 150 W Van Buren St,Eureka Springs,AR,72632,"",150,West Van Buren Street,Eureka Springs,Carroll County,Arkansas,United States,72632,36.3964411,-93.74502299999999,false
+ 102 Cherry Street,Green Forest,AR,72638,"",102,Cherry Street,Green Forest,Carroll County,Arkansas,United States,72638,36.3392738,-93.43583439999999,false
+ 19324 40th Ave. West,Lynnwood,WA,98036,"",19324,40th Avenue West,Lynnwood,Snohomish County,Washington,United States,98036,47.82317330000001,-122.2874618,false
+ 222 E. Francis Avenue,Spokane,WA,99208,"",222,East Francis Avenue,Spokane,Spokane County,Washington,United States,99208,47.7147661,-117.4064179,false
+ 3730 South Pine Street,Tacoma,WA,98409,"",3730,South Pine Street,Tacoma,Pierce County,Washington,United States,98409,47.2231874,-122.4740842,false
+ 109 W. 5th Street,Scotland Neck,NC,27874,"",109,West 5th Street,Scotland Neck,Halifax County,North Carolina,United States,27874,36.1228791,-77.4250373,false
+ 444 Farmington Avenue,New Britain,CT,6053,"",444,Farmington Avenue,New Britain,Hartford County,Connecticut,United States,06053,41.6897697,-72.7903898,true
+ 2500 Oak Grove Road,New Hope,AL,35760,"",2500,Oak Grove Road,New Hope,Madison County,Alabama,United States,35760,34.5340289,-86.405976,false
+ 9212 Chamber Creek Road W,University Place,WA,98467,"",9212,Chambers Creek Road West,University Place,Pierce County,Washington,United States,98467,47.1985088,-122.5603739,true
+ 200 Route 94,Blairstown,NJ,7825,"",200,New Jersey 94,Columbia,Warren County,New Jersey,United States,07832,40.97866,-75.01281999999999,true
+ 308 High Street,Cambridge,MD,21613,"",308,High Street,Cambridge,Dorchester County,Maryland,United States,21613,38.5712702,-76.0770319,false
+ 3309 Ballard Lane,New Albany,IN,47150,"",3309,Ballard Lane,New Albany,Floyd County,Indiana,United States,47150,38.3261496,-85.822137,false
+ 205 W. Pine St,Centralia,WA,98531,"",205,West Pine Street,Centralia,Lewis County,Washington,United States,98531,46.71745929999999,-122.9551752,false
+ 20 Bonair Ave.,Newington,CT,6111,"",20,Bonair Avenue,Newington,Hartford County,Connecticut,United States,06111,41.6951105,-72.72359829999999,true
+ 409 Sligo Street,Woodville,MS,39669,"",409,Sligo Street,Woodville,Wilkinson County,Mississippi,United States,39669,31.1012066,-91.30316669999999,false
+ 1100 Memorial Drive,Oakland,MD,21550,"",1100,Memorial Drive,Oakland,Garrett County,Maryland,United States,21550,39.4172254,-79.3899763,false
+ 179 Miller St,Grantsville,MD,21536,"",179,Miller Street,Grantsville,Garrett County,Maryland,United States,21536,39.6981111,-79.1570655,false
+ 26722 Garrett Hwy,Accident,MD,21520,"","",Garrett Highway,Accident,Garrett County,Maryland,United States,21520,39.6379652,-79.3134457,true
+ 943 2nd Ave,Friendsville,MD,21531,"",943,2nd Avenue,Friendsville,Garrett County,Maryland,United States,21531,39.6644118,-79.403898,true
+ 206 N. 3rd Street,Newman Grove,NE,68758,"",206,North 3rd Street,Newman Grove,Madison County,Nebraska,United States,68758,41.7481618,-97.7808608,false
+ 108 Center St,Beattyville,KY,41311,"",108,Center Street,Beattyville,Lee County,Kentucky,United States,41311,37.57346520000001,-83.7095877,false
+ 911 E. Main Street,Charleston,MS,38921,"",911,East Main Street,Charleston,Tallahatchie County,Mississippi,United States,38921,34.0071422,-90.0437079,false
+ 42 Main Street,Newport,NH,3773,"",42,Main Street,Newport,Sullivan County,New Hampshire,United States,03773,43.36402890000001,-72.17230169999999,true
+ 9998 Eastside Drive Extension,Newton,MS,39345,"",9421,Eastside Drive Ext,Newton,Newton County,Mississippi,United States,39345,32.320174,-89.1634555,true
+ 100 Old Highway 15 Loop,Newton,MS,39345,"",100,Old Highway 15 Loop,Newton,Newton County,Mississippi,United States,39345,32.3337941,-89.14579429999999,false
+ 405 Alleghany Street,Clifton Forge,VA,24422,"",405,Alleghany Street,Clifton Forge,Alleghany County,Virginia,United States,24422,37.8129334,-79.8367219,false
+ 187 Middlesex Avenue,Wilmington,MA,1887,"",187,Middlesex Avenue,Wilmington,Middlesex County,Massachusetts,United States,01887,42.55803,-71.163657,true
+ 1607 11th Avenue S,Haleyville,AL,35565,"",1607,11th Avenue,Haleyville,Winston County,Alabama,United States,35565,34.2235909,-87.6211265,true
